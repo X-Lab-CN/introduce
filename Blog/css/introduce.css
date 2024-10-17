@@ -1,0 +1,88 @@
+    html {
+    background-color: #EEEEEE;
+    /*height: 10020px;*/
+}
+    a {  
+    text-decoration: none;  
+}
+
+    a:link {  
+    color: 527bbd;  
+}  
+
+    a:visited {  
+    color: 527bbd;  
+}
+
+    a:hover {  
+    text-decoration: underline;
+    text-decoration-color: #EEEEEE;
+    color: purple;
+  }
+
+    .titleName {
+        position: relative;  
+        top: 15px;
+        font-weight: 600;
+        color: #527bbd;
+
+}
+    .title {
+    position: relative;  
+    top: 15px;
+    font-weight: 600;
+    color: #527bbd;
+    
+}
+    .out {
+    width: 1000px;
+    /*position: relative;  
+    top: 30px;*/
+    border-bottom: 1px solid black;
+}
+    .ex {
+    width: 1000px;
+    /*position: relative;  
+    top: 30px;*/
+}
+
+    #topName{
+        border-bottom-style: solid; 
+        border-bottom-width: 1px;
+}
+    #PersonalDiv{
+    border-bottom-style: solid; 
+    border-bottom-width: 1px;
+}
+
+    .imgtable{
+        padding: 8px;
+}
+
+    #bottom{
+        font-size: 13px;
+        text-align: right;
+}
+
+    .titleLink{
+        font-size: 17px;
+}
+    .max{
+        width: 1050px; 
+        /*height: 10000px;*/  
+        margin: 0 auto; 
+        background-color: #FFFFFF;
+        /*position: relative;  
+        top: 20px;*/
+        box-sizing:content-box; 
+}
+    .last{
+        padding: 1px;
+        font-size: 12px;
+        width: 1000px;
+        text-align: right
+}
+
+    #text{
+        text-align:justify
+}
