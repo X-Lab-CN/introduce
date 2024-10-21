@@ -78,6 +78,10 @@ html {
 }
 
 .button a:hover {
+    color: #fff; /* 鼠标悬停时文字变为白色 */
+    background-color: #6f00ff; /* 背景颜色变为紫色 */
+    border-color: #6f00ff; /* 边框颜色变为紫色 */
+    transform: translateY(-4px);
     transform: translateY(-4px);
 }
 
