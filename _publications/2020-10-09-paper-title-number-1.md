@@ -1,0 +1,15 @@
+---
+title: "Handwriting and Hand-Sketched Graphics Detection Using Convolutional Neural Networks"
+collection: publications
+category: conferences
+permalink: /publication/2020-10-09-paper-title-number-1
+excerpt: '<div style="text-align: justify;">The paper presents two CNN - based methods, one using CTPN for handwriting detection and the other using Mask - RCNN for hand - sketched graphics detection, and validates their effectiveness on the SUES - 1000 database.</div>'
+date: 2020-10-09
+venue: 'International Conference on Pattern Recognition and Artificial Intelligence'
+paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Handwriting_and_Hand-Sketched_Graphics_Detection_Using_Convolutional_Neural_Networks.pdf'
+citation: '<br/><div style="text-align: justify;">Handwriting and Hand-Sketched Graphics Detection Using Convolutional Neural Networks, S.-Y. Cheng, Y.-J. Xiong*, J.-Q. Zhang and Y.-C. Cao, in Proceedings of the International Conference on Pattern Recognition and Artificial Intelligence, (2020) pp. 352-362</div>'
+---
+
+<div style="text-align: justify;">Handwriting and hand-sketched graphics carry rich information to reveal the insights of the physical and emotional state of the writer. Before analyzing the personal traits of handwriting and handsketched graphics, detecting them from the image is the most immediate subproblem in handwritten document analysis and understanding. In this paper, we introduce two Convolutional Neural Networks (CNN) based methods to extract multimodal information (handwriting and hand-sketched graphics) from questionnaire documents. A Connectionist Text Proposal Network (CTPN) based method is proposed to detect handwriting. The first stage employs the VGG-16 model to generate the convolutional feature maps of the original images. Then the second stage adopts a BLSTM based detector to predict the scores of candidate zones. An instance segmentation method using the Mask Region Convolutional Neural Network (Mask-RCNN) is also proposed to solve hand-sketched graphics detection problem. The Mask-RCNN based approach has two parts: the backbone and the head. The backbone is to extract the features over the original image, and the head is to perform bounding boxes regression and mask prediction. At first, a simple Region Proposal Network (RPN) is adopted to generate the proposals of hand-sketched graphics efficiently. Then, the Region of Interest (RoI) features of the above proposals are fed into the Fast-RCNN branch and the mask branch to obtain the bounding boxes and the graphics segmentation results. The best handwriting detection performance of 200 test questionnaire images is that the precision rate is 99.5%, the recall rate is 99.2% and the F-measure score is 99.4%. The best detection performance of hand-sketched graphics is that the precision rate is 99.0%, the recall rate is 99.5% and the F-measure score is 99.3%. Experiments demonstrate that the proposed methods achieve promising results in both handwriting and hand-sketched graphics detection tasks.</div>
+
+<br/>
