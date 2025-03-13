@@ -13,7 +13,7 @@ title                    : "Y.-J. Xiong/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhanpeng Ji"
 description              : &description "personal description"
-url                      : https://X-Lab-CN.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xiongyujie.cn # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "X-Lab-CN/introduce"
 
