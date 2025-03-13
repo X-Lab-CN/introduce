@@ -6,7 +6,7 @@ permalink: /publication/2015-08-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using SIFT and CDF for text - independent writer identification is proposed. It has two - stage processing and outperforms other algorithms on two datasets.</div>'
 date: 2015-08-22
 venue: 'International Conference on Document Analysis and Recognition'
-paperurl: 'http://jizhanpeng.cn/xiongyujie.github.io/files/Text-independent_writer_identification_using_SIFT_descriptor_and_contour-directional_feature.pdf'
+paperurl: 'http://xiongyujie.cn/files/Text-independent_writer_identification_using_SIFT_descriptor_and_contour-directional_feature.pdf'
 citation: '<br/><div style="text-align: justify;">Text-independent writer identification using SIFT descriptor and contour-directional feature, Y.-J. Xiong, Y. Wen, Patrick. S. P. Wang and Y. Lu*, in Proceedings of the International Conference on Document Analysis and Recognition, (2015) pp. 91–95</div>'
 ---
 
