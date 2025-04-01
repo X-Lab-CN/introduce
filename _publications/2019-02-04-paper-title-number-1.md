@@ -6,7 +6,7 @@ permalink: /publication/2019-02-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper improves text - independent Chinese writer identification by using the similarity of character pairs. It proposes ECF - based scheme and DFS, and re - ranks candidates. Evaluated on two datasets, it outperforms existing methods with high Top - 1 accuracy.</div>'
 date: 2019-02-04
 venue: 'International Journal of Pattern Recognition and Artificial Intelligence'
-paperurl: 'https://www.worldscientific.com/doi/epdf/10.1142/S021800141953001X'
+paperurl: 'http://xiongyujie.cn/files/Improving_Text-Independent_Chinese_Writer_Identi_cation_with_the_Aid_of_Character_Pairs.pdf'
 citation: '<br/><div style="text-align: justify;">Improving Text-Independent Chinese Writer Identification with the Aid of Character Pairs, Y.-J. Xiong, L. Liu, S.-J. Lyu, Patrick S. P. Wang and Y. Lu*, International Journal of Pattern Recognition and Artificial Intelligence, 2019, 33 (2): 1953001</div>'
 ---
 
