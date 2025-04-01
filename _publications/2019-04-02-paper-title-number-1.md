@@ -6,7 +6,7 @@ permalink: /publication/2019-04-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method for Chinese writer identification uses text - independent and text - dependent features. It fuses two similarities. Experiments show it outperforms previous methods with high Top - 1 accuracy.</div>'
 date: 2019-04-02
 venue: 'Frontiers in Patten Recognition and Artificial Intelligence'
-paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/9789811203527_0006'
+paperurl: 'http://xiongyujie.cn/files/Improving_Chinese_Writer_Identifcation_by_Fusion_ofText-dependent_and_Text-independent_ethods.pdf'
 citation: '<br/><div style="text-align: justify;">Chapter 6:Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods, Y.-J. Xiong, L. Liu, Patrick S. P. Wang and Y. Lu*, Frontiers in Patten Recognition and Artificial Intelligence, Series on Language Processing, Pattern Recognition, and Intelligent Systems, 2019, 5 (6): 97-112</div>'
 ---
 
