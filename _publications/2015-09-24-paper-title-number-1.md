@@ -1,5 +1,5 @@
 ---
-title: "基于两方向动态时间规整的无分割手写汉字检测"
+title: "基于两方向动态时间规整的无分割手写汉字检测1111"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-09-24-paper-title-number-1
