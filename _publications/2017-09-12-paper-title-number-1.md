@@ -6,7 +6,7 @@ permalink: /publication/2017-09-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using CDF and modified SIFT for Chinese writer identification is proposed. It outperforms others, achieving high accuracy on HIT - MW dataset.</div>'
 date: 2017-09-12
 venue: 'Series on Language Processing, Pattern Recognition, and Intelligent Systems'
-paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/9789813143685_0008'
+paperurl: 'http://xiongyujie.cn/files/Off-line_Text-independent_Writer_Identification_for_Chinese_Handwriting.pdf'
 citation: '<br/><div style="text-align: justify;">Chapter 8:Off-line Text-independent Writer Identification for Chinese Handwriting, Y.-J. Xiong and Y. Lu*, Advances in Chinese document and text processing, Series on Language Processing, Pattern Recognition, and Intelligent Systems, 2017, 2 (8): 215-234</div>'
 ---
 
