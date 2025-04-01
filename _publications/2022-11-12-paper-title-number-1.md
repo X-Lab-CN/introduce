@@ -6,7 +6,7 @@ permalink: /publication/2022-11-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">In the big data era, conventional RWS in cloud computing has issues. We propose a new methodology. Simulations show our RWS strategies are superior and the method has potential for big data systems.</div>'
 date: 2022-11-12
 venue: 'Expert Systems with Applications'
-paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/S0218126622500128'
+paperurl: 'http://xiongyujie.cn/files/Mitigating_Lifetime-Energy-Makespan_Issues_in_Reliability-Aware_Workflow_Scheduling_for_Big_Data.pdf'
 citation: '<br/><div style="text-align: justify;">Generalized multi-view learning based on generalized eigenvalues proximal support vector machines, X.-J. Xie* and Y.-J. Xiong, Expert Systems with Applications, 2022, 194 (1): 116491</div>'
 ---
 
