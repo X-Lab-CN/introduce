@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-10-25-paper-title-number-1
 excerpt: '<div style="text-align: justify;">Paper uses DCGAN and a network for short term quake prediction.</div>'
-date: 2021-10-25
+date: 2022-10-25
 venue: '地震'
 paperurl: 'http://xiongyujie.cn/files/结合数据扩增与残差收缩网络的地震短临预测_张翔.pdf'
 citation: '<br/><div style="text-align: justify;">结合数据扩增与残差收缩网络的地震短临预测, 张翔，孙宪坤*，胡峻，尹京苑，熊玉洁, 《地震》，2022，42 (2): 74-88</div>'
