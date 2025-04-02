@@ -1,5 +1,5 @@
 ---
-title: "9.两阶段问答范式的生物医学事件触发词检测"
+title: "18.两阶段问答范式的生物医学事件触发词检测"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-20-paper-title-number-2
