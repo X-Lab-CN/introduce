@@ -1,5 +1,5 @@
 ---
-title: "Multiple dependence representation of attention graph convolutional network relation extraction model"
+title: "14.Multiple dependence representation of attention graph convolutional network relation extraction model"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-04-paper-title-number-1
