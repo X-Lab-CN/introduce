@@ -73,7 +73,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
-      <div style="position: absolute; top: 0; left: 0; background: #f5f5f5; padding: 2px 8px; font-size: 12px; font-weight: bold; border-bottom-right-radius: 4px;">
+      <div style="position: absolute; top: 10; left: 0; background: #f5f5f5; padding: 2px 8px; font-size: 12px; font-weight: bold; border-bottom-right-radius: 4px;">
         arXiv
       </div>
       <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
