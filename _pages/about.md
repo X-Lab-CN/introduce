@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About me|<a href="https://seee.sues.edu.cn/">中文版</a>
 **[School of Electronic and Electrical Engineering](https://seee.sues.edu.cn/)**
 
 **[Shanghai University of Engineering Science](https://www.sues.edu.cn/)**
