@@ -69,7 +69,10 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
         Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace
       </a><br/>
       Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu<br/>
-      In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
+      In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025<br/>
+      <a href="https://github.com/Godz-z/DCFT" style="color: #1a73e8; text-decoration: none;">Code</a> | 
+        <a href="https://xiongyujie.cn/files/Parameter-Efficient_Fine-Tuning_of_Large_Language_Models_via_Deconvolution_in_Subspace.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a> | 
+        <a href="#" style="color: #1a73e8; text-decoration: none;">BibTeX</a>
     </td>
   </tr>
 </table>
