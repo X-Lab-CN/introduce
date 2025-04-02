@@ -49,10 +49,13 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
-      <div style="position: absolute; top: 10px; left: 0;  /* 向下偏移10px */
-           background: #1a73e8; color: white; /* 蓝色背景白字 */
-           padding: 3px 10px; font-size: 12px; font-weight: bold; 
-           border-bottom-right-radius: 4px; box-shadow: 1px 1px 3px rgba(0,0,0,0.2);">
+      <div style="position: absolute; top: 10px; left: -8px;  /* 向左偏移8px */
+           background: #1a73e8; color: white;
+           padding: 3px 15px; /* 横向padding增加使框变长 */
+           font-size: 12px; 
+           border-bottom-right-radius: 4px; 
+           box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+           font-weight: normal; /* 取消加粗 */">
         arXiv
       </div>
       <img src="/images/sp1.png" alt="图片描述" 
@@ -62,7 +65,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
     </td>
     <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
       <a href="https://xiongyujie.cn/publication/2025-01-19-paper-title-number-1">
-        <b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b>
+        Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace
       </a><br/>
       Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu<br/>
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
