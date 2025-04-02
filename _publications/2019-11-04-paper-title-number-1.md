@@ -1,5 +1,5 @@
 ---
-title: "改进遗传算法的无人机路径规划"
+title: "35.改进遗传算法的无人机路径规划"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-11-04-paper-title-number-1
