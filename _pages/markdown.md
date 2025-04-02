@@ -40,7 +40,7 @@ redirect_from:
 
 ## Student Cultivation
 
-### Current Students
+### Current
 
 - [Wu Yuhang (Since 2024)](https://blog.csdn.net/weixin_57128596?type=blog)
 - [Gao Jingcheng (Since 2024)](http://rayzark.fun/)
@@ -56,7 +56,7 @@ redirect_from:
 - Chen Yanxu (Since 2022)
 - Zhang Bo (Since 2022)
 
-### Graduated Students
+### Graduated
 
 - Cheng Songyang, 2019-2022. Destination after graduation: Shenzhen United Imaging Medical Technology Co., Ltd.
 - Zhang Junqing, 2019-2022. Destination after graduation: Shanghai Integrated Circuit R&D Center Co., Ltd.
