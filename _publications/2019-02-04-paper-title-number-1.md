@@ -1,5 +1,5 @@
 ---
-title: "Improving Text-Independent Chinese Writer Identification with the Aid of Character Pairs"
+title: "38.Improving Text-Independent Chinese Writer Identification with the Aid of Character Pairs"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-02-04-paper-title-number-1
