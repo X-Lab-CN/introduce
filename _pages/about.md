@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "About me|<a href="baidu.com">中文版</a>"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# About me|<a href="baidu.com">中文版</a>
 **[School of Electronic and Electrical Engineering](https://seee.sues.edu.cn/)**
 
 **[Shanghai University of Engineering Science](https://www.sues.edu.cn/)**
