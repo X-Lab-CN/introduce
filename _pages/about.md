@@ -29,10 +29,10 @@ redirect_from:
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; border: none; padding: 0; vertical-align: middle;">
+    <td style="width: 35%; border: none; padding: 0; vertical-align: middle;">
       <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
     </td>
-    <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
+    <td style="width: 65%; border: none; padding-left: 10px; vertical-align: middle;">
       <b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b><br/>
       Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu<br/>
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
