@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-07-29-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “2C2S: A two-channel and two-stream transformer based framework for offline signature verification” presents the 2C2S framework. It leverages a two - stream setup and special modules, outperforming rivals in signature verification.</div>'
-date: 2022-07-29
+date: 2023-07-29
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'http://xiongyujie.cn/files/2C2S_A_two-channel_and_two-stream_transformer_based_framework_for_offline_signature_verification.pdf'
 citation: '<br/><div style="text-align: justify;">2C2S: A two-channel and two-stream transformer based framework for offline signature verification, J.-X. Ren, Y.-J. Xiong*, H. Zhan and B. Huang, Engineering Applications of Artificial Intelligence, 2023, 118 (1): 105639</div>'
