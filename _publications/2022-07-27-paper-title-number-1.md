@@ -2,7 +2,7 @@
 title: "Learning Transferable Feature Representation with Swin Transformer for Object Recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-07-27-paper-title-number-1
+permalink: /publication/2023-07-27-paper-title-number-1
 excerpt: '<div style="text-align: justify;">Deep learning in computer vision is limited by data - scale dependence. This paper uses Swin Transformer with fine - tuning to overcome data shortage, showing good small - scale dataset object - recognition performance.</div>'
 date: 2022-07-27
 venue: 'Neural Processing Letters '
