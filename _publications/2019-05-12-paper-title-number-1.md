@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019-05-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper focuses on off - line text - independent writer recognition. It summarizes methods, shows datasets, and compares performances. Spatial features outperform others in some aspects.</div>'
-date: 2019-05-12
+date: 2017-05-12
 venue: 'International Journal of Pattern Recognition and Artificial Intelligence'
 paperurl: 'http://xiongyujie.cn/files/Off-line_Text-Independent_Writer_Recognition_A_Survey.pdf'
 citation: '<br/><div style="text-align: justify;">Off-line Text-independent Writer Recognition: A Survey, Y.-J. Xiong, Y. Lu* and Patrick. S. P. Wang, International Journal of Pattern Recognition and Artificial Intelligence, 2017, 31 (5): 1756008</div>'
