@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8: Off-line Text-independent Writer Identification for Chinese Handwriting"
+title: "39.Chapter 8: Off-line Text-independent Writer Identification for Chinese Handwriting"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-09-12-paper-title-number-1
