@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-09-09-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents TTMNM, a triple - strategy - based model, to validate knowledge graph triplets. Experiments show it outperforms baselines and is applicable in industrial datasets.</div>'
-date: 2023-09-09
+date: 2025-01-02
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'http://xiongyujie.cn/files/Triplet_trustworthiness_validation_with_knowledge_graph_reasoning.pdf'
 citation: '<br/><div style="text-align: justify;">Triplet trustworthiness validation with knowledge graph reasoning, G. Zhang, Y.-J. Xiong*, J.-P. Hu, C.-M. Xia, Engineering Applications of Artificial Intelligence, 2025,146: 109813</div>'
