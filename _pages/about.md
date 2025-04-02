@@ -72,11 +72,18 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025<br/>
       <a href="https://github.com/Godz-z/DCFT" style="color: #1a73e8; text-decoration: none;">Code</a> | 
         <a href="https://xiongyujie.cn/files/Parameter-Efficient_Fine-Tuning_of_Large_Language_Models_via_Deconvolution_in_Subspace.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a> | 
-        <a href="javascript:void(0);" style="color: #1a73e8; text-decoration: none;" data-text="@article{fei2024scaling,
-  title={Scaling Diffusion Transformers to 16B Parameters},
-  author={Fei, Zhengcong and Fan, Mingyuan and Yu, Changqian and Li, Debang and Huang, Junshi},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
+        <a href="javascript:void(0);" style="color: #1a73e8; text-decoration: none;" data-text="@inproceedings{zhang-etal-2025-parameter,
+    title = "Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace",
+    author = "Zhang, Jia-Chen  and
+      Xiong, Yu-Jie  and
+      Xia, Chun-Ming  and
+      Zhu, Dong-Hai  and
+      Qiu, Xi-He",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    url = "https://aclanthology.org/2025.coling-main.265/",
+    pages = "3924--3935",
 }">BibTeX</a>
     </td>
   </tr>
