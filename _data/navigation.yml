@@ -6,7 +6,7 @@
 
 main:
   - title: "中文版"
-    url: https://github.com/X-Lab-CN/introduce/blob/master/introduce.html
+    url: https://xiongyujie.cn/introduce.html
     
   - title: "Publications"
     url: /publications/
