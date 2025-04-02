@@ -29,7 +29,7 @@ author:
   location         : "Shanghai China"
   employer         : "SUES"
   uri              : #
-  email            : "" 
+  # email            : "" 
 
   # Academic websites
   arxiv            : 
