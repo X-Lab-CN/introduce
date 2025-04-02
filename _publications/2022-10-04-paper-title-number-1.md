@@ -1,5 +1,5 @@
 ---
-title: "SET: a squeeze-and-excitation transformer for offline signature verification"
+title: "6.SET: a squeeze-and-excitation transformer for offline signature verification"
 collection: publications
 category: conferences
 permalink: /publication/2022-10-04-paper-title-number-1
