@@ -25,7 +25,7 @@ redirect_from:
 
 <div style="text-align: justify;">📖He has presided over more than 10 scientific research projects, including the National Natural Science Foundation of China Youth Project, Shanghai Municipal Science and Technology Commission projects, Shanghai Municipal Education Commission projects, and enterprise-entrusted projects. He has also participated in major projects such as the Innovation 2030—"New Generation Artificial Intelligence" project, National Natural Science Foundation projects, and Shanghai Municipal Science and Technology Commission projects. He has published over 50 academic papers and serves as a member of the program committees for several international conferences. As an expert with the ISO International Organization for Standardization, he has participated in the review of multiple TC249 traditional Chinese medicine standard projects and contributed to the drafting of national standards "Traditional Chinese Medicine—Diagnostic Vocabulary—Part 1: Tongue Manifestations" and "Traditional Chinese Medicine—Diagnostic Vocabulary—Part 2: Pulse Manifestations."</div>
 
-## 📝Publications
+## 📝Selected Publications
 Please see [Publications](https://xiongyujie.cn/publications/) for more details.
 
 *：Corresponding author
