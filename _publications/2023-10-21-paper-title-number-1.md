@@ -1,5 +1,5 @@
 ---
-title: "Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery"
+title: "5.Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery"
 collection: publications
 category: conferences
 permalink: /publication/2023-10-21-paper-title-number-1
