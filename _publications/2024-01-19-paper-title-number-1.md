@@ -1,5 +1,5 @@
 ---
-title: "Free Lunch: Frame-level Contrastive Learning with Text Perceiver for Robust Scene Text Recognition in Lightweight Models"
+title: "4.Free Lunch: Frame-level Contrastive Learning with Text Perceiver for Robust Scene Text Recognition in Lightweight Models"
 collection: publications
 category: conferences
 permalink: /publication/2024-01-19-paper-title-number-1
