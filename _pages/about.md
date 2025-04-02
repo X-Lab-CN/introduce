@@ -145,3 +145,31 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
     </td>
   </tr>
 </table>
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
+      <div style="position: absolute; top: 10px; left: -8px;
+           background: #1a73e8; color: white;
+           padding: 2px 15px; /* 高度减少（原为3px） */
+           font-size: 11px;  /* 字体稍小 */
+           border-bottom-right-radius: 4px; 
+           box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+           font-weight: normal;
+           line-height: 1.2;"> <!-- 调整行高 -->
+         Engineering Applications of Artificial Intelligence 2022
+      </div>
+      <img src="/images/sp5.png" alt="图片描述" 
+           style="width: 500px; height: 150px; 
+           box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); 
+           border-radius: 4px;">
+    </td>
+    <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
+      <a href="https://xiongyujie.cn/publication/2022-07-29-paper-title-number-1">
+        2C2S: A two-channel and two-stream transformer based framework for offline signature verification
+      </a><br/>
+         Jian-Xin Ren, Yu-Jie Xiong*, Hongjian Zhan, Bo Huang<br/>
+      In <i>Engineering Applications of Artificial Intelligence</i>,2022<br/>
+      <a href="https://xiongyujie.cn/files/2C2S_A_two-channel_and_two-stream_transformer_based_framework_for_offline_signature_verification.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
+    </td>
+  </tr>
+</table>
