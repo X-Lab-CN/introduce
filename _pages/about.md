@@ -33,7 +33,9 @@ redirect_from:
       <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
     </td>
     <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
-      <b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b>
+      <b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b><br/>
+      Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu
+      In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
     </td>
   </tr>
 </table>
