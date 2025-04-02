@@ -69,12 +69,8 @@ redirect_from:
 - Zhang Guowei, 2021 - 2024. Destination after graduation: Jinan Branch of Qilu Bank.
 - Li Jing, 2020 - 2024. Destination after graduation: China Tower Co., Ltd.
 
-### Recruitment
+### Student Recruitment
 
 <div style="text-align: justify;">We recruit 3 to 5 master's students every year. There is no strict restriction on the professional background. Sincerity is the basic requirement, and strong execution ability, as well as the habits of asking questions and coding, are plus points. Students who are interested are welcome to contact me in advance. I hope everyone can do some interesting things during their postgraduate studies!</div>
 <br/>
-If you feel shy, you can contact my students.
-
-<br/>
-
 <div style="text-align: justify;">In addition, for undergraduate or postgraduate students who have the idea of further study, you are welcome to have a chat with me. Maybe it will bring you some help.</div>
