@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods"
+title: "37.Chapter 6: Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-04-02-paper-title-number-1
