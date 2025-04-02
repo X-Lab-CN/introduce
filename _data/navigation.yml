@@ -6,7 +6,7 @@
 
 main:
   #- title: "中文版"
-    url: /about_zh/
+  # url: /about_zh/
     
   - title: "Publications"
     url: /publications/
