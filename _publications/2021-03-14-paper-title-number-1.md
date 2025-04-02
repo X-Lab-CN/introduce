@@ -1,5 +1,5 @@
 ---
-title: "An Empirical Study of Text Factors and Their Effects on Chinese Writer Identification"
+title: "9.An Empirical Study of Text Factors and Their Effects on Chinese Writer Identification"
 collection: publications
 category: conferences
 permalink: /publication/2021-03-14-paper-title-number-1
