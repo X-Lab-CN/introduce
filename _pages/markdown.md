@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## **Courses Taught**
+## **Courses**
 
 - **Principles of Compilation** (Undergraduate course for Computer Science majors)
 - **Big Data Foundation Platform** (Undergraduate course for Big Data majors)
