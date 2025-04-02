@@ -1,5 +1,5 @@
 ---
-title: "Learning Transferable Feature Representation with Swin Transformer for Object Recognition"
+title: "21.Learning Transferable Feature Representation with Swin Transformer for Object Recognition"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-27-paper-title-number-1
