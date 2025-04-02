@@ -1,5 +1,5 @@
 ---
-title: "Chinese Writer Identification Using Contour-Directional Feature and Character Pair Similarity Measurement"
+title: "11.Chinese Writer Identification Using Contour-Directional Feature and Character Pair Similarity Measurement"
 collection: publications
 category: conferences
 permalink: /publication/2017-10-12-paper-title-number-1
