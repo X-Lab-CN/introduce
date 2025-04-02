@@ -130,7 +130,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
            line-height: 1.2;"> <!-- 调整行高 -->
          Engineering Applications of Artificial Intelligence 2023
       </div>
-      <img src="/images/sp3.png" alt="图片描述" 
+      <img src="/images/sp4.png" alt="图片描述" 
            style="width: 500px; height: 150px; 
            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); 
            border-radius: 4px;">
