@@ -111,9 +111,9 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       <a href="https://xiongyujie.cn/publication/2024-10-10-paper-title-number-4">
         Harmonious parameters and performance: Lightweight convolutional stage and local feature weighted fusion MLP for medical image segmentation
       </a><br/>
-       Junqi Lua, Xijiong Xie*, Yujie Xiong<br/>
-      In <i>Pattern Recognition</i>,2024<br/>
-      <a href="https://xiongyujie.cn/files/Multi-view_hypergraph_regularized_Lp_norm_least_squares_twin_support_vector_machines_for_semi-supervised_learning.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
+        Yan-Xu Chen, Yu-Jie Xiong*, Xi-He Qiu, Chun-Ming Xia*<br/>
+      In <i>Biomedical Signal Processing and Control</i>,2024<br/>
+      <a href="https://xiongyujie.cn/files/Harmonious_parameters_and_performance_Lightweight_convolutional_stage_and_local_feature_weighted_fusion_MLP_for_medical_image_segmentation.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
 </table>
