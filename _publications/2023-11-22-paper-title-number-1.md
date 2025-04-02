@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-11-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes MvHGLpLSTSVM for multi - view semi - supervised learning, combining hypergraph and Lp norm, and validates its effectiveness via experiments.</div>'
-date: 2023-11-22
+date: 2024-07-02
 venue: 'Pattern Recognition'
 paperurl: 'http://xiongyujie.cn/files/Multi-view_hypergraph_regularized_Lp_norm_least_squares_twin_support_vector_machines_for_semi-supervised_learning.pdf'
 citation: '<br/><div style="text-align: justify;">Multi-view hypergraph regularized Lp norm least squares twin support vector machines for semi-supervised learning, J. Lu, X.-J. Xie* and Y.-J. Xiong, Pattern Recognition, 2024, 156: 110753</div>'
