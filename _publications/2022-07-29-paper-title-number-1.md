@@ -1,5 +1,5 @@
 ---
-title: "2C2S: A two-channel and two-stream transformer based framework for offline signature verification"
+title: "15.2C2S: A two-channel and two-stream transformer based framework for offline signature verification"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-07-29-paper-title-number-1
