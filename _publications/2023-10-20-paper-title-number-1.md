@@ -1,5 +1,5 @@
 ---
-title: "13.Adaptive graph-based feature normalization for facial expression recognition"
+title: "5.Adaptive graph-based feature normalization for facial expression recognition"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-20-paper-title-number-1
