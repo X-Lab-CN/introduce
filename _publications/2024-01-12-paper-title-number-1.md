@@ -1,5 +1,5 @@
 ---
-title: "10.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
+title: "13.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-12-paper-title-number-1
