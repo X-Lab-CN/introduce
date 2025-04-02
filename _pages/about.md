@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me|<a href="baidu.com">中文版</a>"
 author_profile: true
 redirect_from: 
   - /about/
