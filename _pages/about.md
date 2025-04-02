@@ -183,13 +183,9 @@ We provide a complete list of research papers.
   <summary>
     <b>Publications List</b>
   </summary>
-<ol>
-    <li>
-        <a href="https://www.sciencedirect.com/science/article/pii/S1746809424007845">
-          <p>Harmonious parameters and performance: Lightweight convolutional stage and local feature weighted
+        1.<a href="https://www.sciencedirect.com/science/article/pii/S1746809424007845">
+          Harmonious parameters and performance: Lightweight convolutional stage and local feature weighted
                 fusion MLP for medical image segmentation</a>,
         Y.-X. Chen, <strong>Y.-J. Xiong*</strong>, X.-H. Qiu and C.-M. Xia*,
-        <em>Biomedical Signal Processing and Control</em>, 2024, 98: 106726</p>
-    </li>
-</ol>
+        <em>Biomedical Signal Processing and Control</em>, 2024, 98: 106726
 </details>
