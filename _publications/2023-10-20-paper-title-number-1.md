@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-10-20-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents AGFN for FER to handle data uncertainties. It uses a Poisson graph generator and GCN, and outperforms other methods, especially with mislabeled data.</div>'
-date: 2023-10-20
+date: 2024-10-20
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'http://xiongyujie.cn/files/Adaptive_graph-based_feature_normalization_for_facial_expression_recognition.pdf'
 citation: '<br/><div style="text-align: justify;">Adaptive graph-based feature normalization for facial expression recognition, Y.-J. Xiong*, Q. Wang, Y.-T. Du and Y. Lu, Engineering Applications of Artificial Intelligence, 2024, 129: 107623</div>'
