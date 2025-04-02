@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-08-10-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a cross - entropy approach to solve it, and validates its effectiveness via experiments.</div>'
-date: 2021-08-10
+date: 2022-08-10
 venue: 'Computer Communications'
 paperurl: 'http://xiongyujie.cn/files/A_cross_entropy_based_approach_to_minimum_propagation_latency_for_controller_placement_in_Software_Defined_Network.pdf'
 citation: '<br/><div style="text-align: justify;">A cross entropy based approach to minimum propagation latency for controller placement in Software Defined Network, J. Chen, Y.-J. Xiong*, X.-H. Qiu, D. He, H.-M. Yin and Y.-F. Xiao, Computer Communications, 2022, 191 (1): 133-144</div>'
