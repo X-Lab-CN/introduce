@@ -1,5 +1,5 @@
 ---
-title: "Attention Based Multiple Siamese Network for Offline Signature Verification"
+title: "8.Attention Based Multiple Siamese Network for Offline Signature Verification"
 collection: publications
 category: conferences
 permalink: /publication/2021-09-02-paper-title-number-1
