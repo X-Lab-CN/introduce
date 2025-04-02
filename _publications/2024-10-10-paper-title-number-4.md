@@ -1,5 +1,5 @@
 ---
-title: "Harmonious parameters and performance: Lightweight convolutional stage and local feature weighted fusion MLP for medical image segmentation"
+title: "3.Harmonious parameters and performance: Lightweight convolutional stage and local feature weighted fusion MLP for medical image segmentation"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-10-paper-title-number-4
