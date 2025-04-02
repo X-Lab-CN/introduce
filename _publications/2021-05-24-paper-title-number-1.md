@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-05-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a lightweight DS - PWC model based on PWC - Net for optical flow estimation. It uses deep - separable convolutions and data enhancement, achieving 58 fps with good quality and validating its effectiveness.</div>'
-date: 2021-05-24
+date: 2022-05-24
 venue: '计算机应用研究'
 paperurl: 'http://xiongyujie.cn/files/基于PWC-Net的多层权值和轻量化改进光流估计算法_胡毅轩.pdf'
 citation: '<br/><div style="text-align: justify;">基于 PWC-Net 的多层权值和轻量化改进光流估计算法, 胡毅轩，吴飞*，熊玉洁, 《计算机应用研究》，2022，39 (1): 291-295</div>'
