@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-02-28-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an AUMF for license plate detection. It details its architecture, loss function, validates on AOLP dataset, and shows better performance in complex conditions.</div>'
-date: 2020-02-28
+date: 2021-02-28
 venue: 'Wuhan University Journal of Natural Sciences'
 paperurl: 'http://xiongyujie.cn/files/Attention_U-Net_with_Multilevel_Fusion_for_License_Plate_Detection.pdf'
 citation: '<br/><div style="text-align: justify;">Attention U-Net with Multilevel Fusion for License Plate Detection, Y. Yao, Y.-J. Xiong*, B. Huang and J. Yang, Wuhan University Journal of Natural Sciences, 2021, 26 (3): 227-234</div>'
