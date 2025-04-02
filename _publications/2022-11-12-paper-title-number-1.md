@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-11-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">In the big data era, conventional RWS in cloud computing has issues. We propose a new methodology. Simulations show our RWS strategies are superior and the method has potential for big data systems.</div>'
-date: 2021-11-12
+date: 2022-11-12
 venue: 'Journal of Circuits, Systems, and Computers'
 paperurl: 'http://xiongyujie.cn/files/Mitigating_Lifetime-Energy-Makespan_Issues_in_Reliability-Aware_Workflow_Scheduling_for_Big_Data.pdf'
 citation: '<br/><div style="text-align: justify;">Mitigating Lifetime-Energy-Makespan Issues in Reliability-Aware Workflow Scheduling for Big Data, Y.-J. Xiong*, S.-Y. Cheng and B. Chen, Journal of Circuits, Systems and Computers, 2022, 31 (1): 2250012</div>'
