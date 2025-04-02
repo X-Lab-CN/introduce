@@ -1,5 +1,5 @@
 ---
-title: "Text-independent Writer Identification Using SIFT Descriptor and Contour-directional Feature"
+title: "12.Text-independent Writer Identification Using SIFT Descriptor and Contour-directional Feature"
 collection: publications
 category: conferences
 permalink: /publication/2015-08-22-paper-title-number-1
