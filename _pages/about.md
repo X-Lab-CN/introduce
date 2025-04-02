@@ -33,7 +33,7 @@ redirect_from:
       <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
     </td>
     <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
-      <b>[Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace](https://xiongyujie.cn/publication/2025-01-19-paper-title-number-1)</b><br/>
+      <a href="https://xiongyujie.cn/publication/2025-01-19-paper-title-number-1"><b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b></a><br/>
       Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu<br/>
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
     </td>
