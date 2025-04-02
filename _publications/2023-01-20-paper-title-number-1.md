@@ -1,5 +1,5 @@
 ---
-title: "Attention-based multiple siamese networks with primary representation guiding for offline signature verification"
+title: "17.Attention-based multiple siamese networks with primary representation guiding for offline signature verification"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-20-paper-title-number-1
