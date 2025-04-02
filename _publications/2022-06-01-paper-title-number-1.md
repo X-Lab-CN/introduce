@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-06-01-paper-title-number-1
 excerpt: '<div style="text-align: justify;">“PDCSN: A partition density clustering with self - adaptive neighborhoods” presents PDCSN. It uses self - adaptive methods to cluster, and outperforms rivals on multiple datasets.</div>'
-date: 2022-06-01
+date: 2023-06-01
 venue: 'Expert Systems With Applications'
 paperurl: 'http://xiongyujie.cn/files/PDCSN_ A_partition_density_clustering_with_self-adaptive_neighborhoods.pdf'
 citation: '<br/><div style="text-align: justify;">PDCSN: A partition density clustering with self-adaptive neighborhoods, S. Xing, Q.-M. Su*, Y.-J. Xiong*, C.-M. Xia,Expert Systems With Applications, 2023, 227 (1): 120195</div>'
