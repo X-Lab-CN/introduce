@@ -1,5 +1,5 @@
 ---
-title: "PDCSN: A partition density clustering with self-adaptive neighborhoods"
+title: "17.PDCSN: A partition density clustering with self-adaptive neighborhoods"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-06-01-paper-title-number-1
