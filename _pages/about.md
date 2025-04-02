@@ -32,20 +32,6 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
 
 ------
 
-
-
-<table style="width: 100%; border: none; border-collapse: collapse;">
-  <tr>
-    <td style="width: 35%; border: none; padding: 0; vertical-align: middle;">
-      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
-    </td>
-    <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
-      <a href="https://xiongyujie.cn/publication/2025-01-19-paper-title-number-1"><b>Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace</b></a><br/>
-      Jia-Chen Zhang, Yu-Jie Xiong*, Chun-Ming Xia, Dong-Hai Zhu, Xi-He Qiu<br/>
-      In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025
-    </td>
-  </tr>
-</table>
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
@@ -72,6 +58,34 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025<br/>
       <a href="https://github.com/Godz-z/DCFT" style="color: #1a73e8; text-decoration: none;">Code</a> | 
       <a href="https://xiongyujie.cn/files/Parameter-Efficient_Fine-Tuning_of_Large_Language_Models_via_Deconvolution_in_Subspace.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
+    </td>
+  </tr>
+</table>
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
+      <div style="position: absolute; top: 10px; left: -8px;
+           background: #1a73e8; color: white;
+           padding: 2px 15px; /* 高度减少（原为3px） */
+           font-size: 11px;  /* 字体稍小 */
+           border-bottom-right-radius: 4px; 
+           box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+           font-weight: normal;
+           line-height: 1.2;"> <!-- 调整行高 -->
+         Pattern Recognition 2024
+      </div>
+      <img src="/images/sp2.png" alt="图片描述" 
+           style="width: 500px; height: 150px; 
+           box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); 
+           border-radius: 4px;">
+    </td>
+    <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
+      <a href="https://xiongyujie.cn/publication/2023-11-22-paper-title-number-1">
+        Multi-view hypergraph regularized Lp norm least squares twin support vector machines for semi-supervised learning
+      </a><br/>
+       Junqi Lua, Xijiong Xie*, Yujie Xiong<br/>
+      In <i>Pattern Recognition</i>,2025<br/>
+      <a href="https://xiongyujie.cn/files/Multi-view_hypergraph_regularized_Lp_norm_least_squares_twin_support_vector_machines_for_semi-supervised_learning.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
 </table>
