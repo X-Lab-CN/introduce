@@ -36,7 +36,23 @@ redirect_from:
       这里是右侧的文字内容，宽度严格占 50%。
     </td>
   </tr>
+    <tr>
+    <td style="width: 50%; border: none; padding: 0; vertical-align: middle;">
+      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 200px;">
+    </td>
+    <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
+      这里是右侧的文字内容，宽度严格占 50%。
+    </td>
+  </tr>
+    <tr>
+    <td style="width: 50%; border: none; padding: 0; vertical-align: middle;">
+      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 200px;">
+    </td>
+    <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
+      这里是右侧的文字内容，宽度严格占 50%。
+    </td>
+  </tr>
 </table>
 
-<img src='./images/sues.png'>
+<img src='/images/sues.png'>
 
