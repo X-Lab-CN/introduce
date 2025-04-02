@@ -84,7 +84,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
         Multi-view hypergraph regularized Lp norm least squares twin support vector machines for semi-supervised learning
       </a><br/>
        Junqi Lua, Xijiong Xie*, Yujie Xiong<br/>
-      In <i>Pattern Recognition</i>,2025<br/>
+      In <i>Pattern Recognition</i>,2024<br/>
       <a href="https://xiongyujie.cn/files/Multi-view_hypergraph_regularized_Lp_norm_least_squares_twin_support_vector_machines_for_semi-supervised_learning.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
