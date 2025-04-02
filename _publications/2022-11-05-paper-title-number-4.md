@@ -1,5 +1,5 @@
 ---
-title: "22.基于Transformer与Vector Loss模块的椎骨Cobb角点定位网络"
+title: "23.基于Transformer与Vector Loss模块的椎骨Cobb角点定位网络"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-11-05-paper-title-number-4
