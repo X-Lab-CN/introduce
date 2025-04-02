@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  #- title: "中文版"
-  # url: /about_zh/
+  - title: "中文版"
+    url: https://seee.sues.edu.cn/
     
   - title: "Publications"
     url: /publications/
