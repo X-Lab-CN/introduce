@@ -72,7 +72,12 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       In <i>Proceedings of the 31st International Conference on Computational Linguistics</i>,2025<br/>
       <a href="https://github.com/Godz-z/DCFT" style="color: #1a73e8; text-decoration: none;">Code</a> | 
         <a href="https://xiongyujie.cn/files/Parameter-Efficient_Fine-Tuning_of_Large_Language_Models_via_Deconvolution_in_Subspace.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a> | 
-        <a href="#" style="color: #1a73e8; text-decoration: none;">BibTeX</a>
+        <a href="#" style="color: #1a73e8; text-decoration: none;" data-text="@article{fei2024scaling,
+  title={Scaling Diffusion Transformers to 16B Parameters},
+  author={Fei, Zhengcong and Fan, Mingyuan and Yu, Changqian and Li, Debang and Huang, Junshi},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2024}
+}">BibTeX</a>
     </td>
   </tr>
 </table>
