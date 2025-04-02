@@ -1,5 +1,5 @@
 ---
-title: "Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting"
+title: "1.Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-08-paper-title-number-1
