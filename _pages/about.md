@@ -83,7 +83,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       <a href="https://xiongyujie.cn/publication/2023-11-22-paper-title-number-1">
         Multi-view hypergraph regularized Lp norm least squares twin support vector machines for semi-supervised learning
       </a><br/>
-       Junqi Lua, Xijiong Xie*, Yujie Xiong<br/>
+       Junqi Lu, Xijiong Xie*, Yujie Xiong<br/>
       In <i>Pattern Recognition</i>,2024<br/>
       <a href="https://xiongyujie.cn/files/Multi-view_hypergraph_regularized_Lp_norm_least_squares_twin_support_vector_machines_for_semi-supervised_learning.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
@@ -114,6 +114,34 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
         Yan-Xu Chen, Yu-Jie Xiong*, Xi-He Qiu, Chun-Ming Xia*<br/>
       In <i>Biomedical Signal Processing and Control</i>,2024<br/>
       <a href="https://xiongyujie.cn/files/Harmonious_parameters_and_performance_Lightweight_convolutional_stage_and_local_feature_weighted_fusion_MLP_for_medical_image_segmentation.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
+    </td>
+  </tr>
+</table>
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
+      <div style="position: absolute; top: 10px; left: -8px;
+           background: #1a73e8; color: white;
+           padding: 2px 15px; /* 高度减少（原为3px） */
+           font-size: 11px;  /* 字体稍小 */
+           border-bottom-right-radius: 4px; 
+           box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+           font-weight: normal;
+           line-height: 1.2;"> <!-- 调整行高 -->
+         Engineering Applications of Artificial Intelligence 2023
+      </div>
+      <img src="/images/sp3.png" alt="图片描述" 
+           style="width: 500px; height: 150px; 
+           box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); 
+           border-radius: 4px;">
+    </td>
+    <td style="width: 65%; border: none; padding-left: 40px; vertical-align: middle;">
+      <a href="https://xiongyujie.cn/publication/2023-10-20-paper-title-number-1">
+        Adaptive graph-based feature normalization for facial expression recognition
+      </a><br/>
+         Yu-Jie Xionga*, Qingqing Wang*, Yangtao Du, Yue Lu<br/>
+      In <i>Engineering Applications of Artificial Intelligence</i>,2023<br/>
+      <a href="https://xiongyujie.cn/files/Adaptive_graph-based_feature_normalization_for_facial_expression_recognition.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
 </table>
