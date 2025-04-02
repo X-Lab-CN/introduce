@@ -40,7 +40,7 @@ redirect_from:
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; border: none; padding: 0; vertical-align: middle;">
-      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px;">
+      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
     </td>
     <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
       这里是右侧的文字内容，宽度严格占 50%1111。
@@ -50,7 +50,7 @@ redirect_from:
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; border: none; padding: 0; vertical-align: middle;">
-      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px;">
+      <img src="/images/sp1.png" alt="图片描述" style="width: 500px; height: 150px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); border-radius: 4px;">
     </td>
     <td style="width: 50%; border: none; padding-left: 10px; vertical-align: middle;">
       这里是右侧的文字内容，宽度严格占 50%1111。
