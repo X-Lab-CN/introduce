@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-05-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents GMGSVMs and GMIGSVMs for generalized multi - view learning, uses an alternating algorithm for optimization, and proves their superiority via experiments.</div>'
-date: 2020-05-12
+date: 2022-05-12
 venue: 'Expert Systems With Applications'
 paperurl: 'http://xiongyujie.cn/files/Generalized_multi-view_learning_based_on_generalized_eigenvalues_proximal_support_vector_machines.pdf'
 citation: '<br/><div style="text-align: justify;">Generalized multi-view learning based on generalized eigenvalues proximal support vector machines, X.-J. Xie* and Y.-J. Xiong, Expert Systems with Applications, 2022, 194 (1): 116491</div>'
