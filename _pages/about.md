@@ -49,14 +49,15 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 35%; border: none; padding: 0; vertical-align: middle; position: relative;">
-      <div style="position: absolute; top: 10px; left: -8px;  /* 向左偏移8px */
+      <div style="position: absolute; top: 10px; left: -8px;
            background: #1a73e8; color: white;
-           padding: 3px 15px; /* 横向padding增加使框变长 */
-           font-size: 12px; 
+           padding: 2px 15px; /* 高度减少（原为3px） */
+           font-size: 11px;  /* 字体稍小 */
            border-bottom-right-radius: 4px; 
            box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-           font-weight: normal; /* 取消加粗 */">
-        arXiv
+           font-weight: normal;
+           line-height: 1.2;"> <!-- 调整行高 -->
+        COLING 2025
       </div>
       <img src="/images/sp1.png" alt="图片描述" 
            style="width: 500px; height: 150px; 
