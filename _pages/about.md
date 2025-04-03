@@ -138,7 +138,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
       <a href="https://xiongyujie.cn/publication/2023-10-20-paper-title-number-1">
         Adaptive graph-based feature normalization for facial expression recognition
       </a><br/>
-         Yu-Jie Xionga*, Qingqing Wang*, Yangtao Du, Yue Lu<br/>
+         Yu-Jie Xiong*, Qingqing Wang*, Yangtao Du, Yue Lu<br/>
       In <i>Engineering Applications of Artificial Intelligence</i>,2023<br/>
       <a href="https://xiongyujie.cn/files/Adaptive_graph-based_feature_normalization_for_facial_expression_recognition.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
