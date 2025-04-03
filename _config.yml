@@ -27,7 +27,7 @@ author:
   pronouns         : # "her"  
   bio              : "Associate professor"
   location         : "Shanghai China"
-  employer         : "SUES"
+  # employer         : "SUES"
   uri              : #
   # email            : "" 
 
