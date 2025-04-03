@@ -139,7 +139,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
         Adaptive graph-based feature normalization for facial expression recognition
       </a><br/>
          Yu-Jie Xiong*, Qingqing Wang*, Yangtao Du, Yue Lu<br/>
-      In <i>Engineering Applications of Artificial Intelligence</i>,2023<br/>
+      In <i>Engineering Applications of Artificial Intelligence</i>,2024<br/>
       <a href="https://xiongyujie.cn/files/Adaptive_graph-based_feature_normalization_for_facial_expression_recognition.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
@@ -167,7 +167,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
         2C2S: A two-channel and two-stream transformer based framework for offline signature verification
       </a><br/>
          Jian-Xin Ren, Yu-Jie Xiong*, Hongjian Zhan, Bo Huang<br/>
-      In <i>Engineering Applications of Artificial Intelligence</i>,2022<br/>
+      In <i>Engineering Applications of Artificial Intelligence</i>,2023<br/>
       <a href="https://xiongyujie.cn/files/2C2S_A_two-channel_and_two-stream_transformer_based_framework_for_offline_signature_verification.pdf" style="color: #1a73e8; text-decoration: none;">PDF</a>
     </td>
   </tr>
