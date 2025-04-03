@@ -127,7 +127,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
            box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
            font-weight: normal;
            line-height: 1.2;"> <!-- 调整行高 -->
-         Engineering Applications of Artificial Intelligence 2023
+         EAAI 2024
       </div>
       <img src="/images/sp4.png" alt="图片描述" 
            style="width: 500px; height: 150px; 
@@ -155,7 +155,7 @@ Please see [Publications](https://xiongyujie.cn/publications/) for more details.
            box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
            font-weight: normal;
            line-height: 1.2;"> <!-- 调整行高 -->
-         Engineering Applications of Artificial Intelligence 2022
+         EAAI 2023
       </div>
       <img src="/images/sp5.png" alt="图片描述" 
            style="width: 500px; height: 150px; 
