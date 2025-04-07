@@ -1,7 +1,7 @@
 ---
 title: "基于Transformer特征通道融合的舌像分割"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-01-05-paper-title-number-1
 excerpt: '<div style="text-align: justify;">In the field of tongue image segmentation, researchers have proposed a novel Transformer-based feature channel fusion method, which significantly improves segmentation accuracy and reliability.</div>'
 date: 2024-01-05
