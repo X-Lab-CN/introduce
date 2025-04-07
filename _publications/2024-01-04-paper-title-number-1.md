@@ -1,5 +1,5 @@
 ---
-title: "FaRE: A Feature-aware Radical Encoding Strategy for Zero-shot Chinese Character Recognition"
+title: "20.FaRE: A Feature-aware Radical Encoding Strategy for Zero-shot Chinese Character Recognition"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-04-paper-title-number-1
