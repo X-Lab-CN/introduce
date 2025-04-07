@@ -1,7 +1,7 @@
 ---
 title: "17.PDCSN: A partition density clustering with self-adaptive neighborhoods"
 collection: publications
-category: manuscripts
+category: 2023
 permalink: /publication/2022-06-01-paper-title-number-1
 excerpt: '<div style="text-align: justify;">“PDCSN: A partition density clustering with self - adaptive neighborhoods” presents PDCSN. It uses self - adaptive methods to cluster, and outperforms rivals on multiple datasets.</div>'
 date: 2023-06-01
