@@ -1,7 +1,7 @@
 ---
 title: "31.Attention U-Net with Feature Fusion Module for Robust Defect Detection"
 collection: publications
-category: manuscripts
+category: 2021
 permalink: /publication/2021-07-15-paper-title-number-1
 excerpt: '<div style="text-align: justify;">U-Net is good at medical image segmentation but not for industrial defect detection. We propose an attention U-Net with a feature fusion module. It combines features and uses attention gates. Experiments on two datasets show it outperforms other methods and has application potential.</div>'
 date: 2021-07-15
