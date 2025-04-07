@@ -1,7 +1,7 @@
 ---
 title: "7.Kalman-SSM: Modeling Long-Term Time Series With Kalman Filter Structured State Spaces"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-09-10-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “Kalman-SSM: Modeling Long-Term Time Series With Kalman Filter Structured State Spaces” presents the Kalman-SSM model. It combines the Kalman filter and SSM, outperforming SOTA models in long - term time series forecasting.</div>'
 date: 2024-09-10
