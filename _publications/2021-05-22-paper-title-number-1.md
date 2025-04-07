@@ -1,7 +1,7 @@
 ---
 title: "27.基于PWC-Net的多层权值和轻量化改进光流估计算法"
 collection: publications
-category: manuscripts
+category: 2022
 permalink: /publication/2021-05-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a lightweight DS - PWC model based on PWC - Net for optical flow estimation. It uses deep - separable convolutions and data enhancement, achieving 58 fps with good quality and validating its effectiveness.</div>'
 date: 2022-05-24
