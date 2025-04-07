@@ -1,7 +1,7 @@
 ---
 title: "3.Few-Shot Named Entity Recognition with the Integration of Spatial Features"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2023-12-28-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A two - stage framework for few - shot NER is proposed. It uses multiscale convolution and an improved prototypical network, and outperforms baselines in experiments.</div>'
 date: 2024-12-28
