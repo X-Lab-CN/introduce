@@ -1,7 +1,7 @@
 ---
 title: "12.Text Classification Model Based on Graph Attention Networks and Adversarial Training"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-05-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a text classification model with GATs and adversarial training, performs well in experiments, and discusses its limitations and future directions.</div>'
 date: 2024-05-22
