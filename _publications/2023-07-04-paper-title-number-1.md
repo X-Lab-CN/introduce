@@ -1,7 +1,7 @@
 ---
 title: "10.Enhanced video clustering using multiple riemannian manifold-valued descriptors and audio-visual information"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2023-07-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a method using multiple Riemannian manifold - valued descriptors and audio - visual information for video clustering, including single - and multi - modality approaches, and shows its superiority over existing methods through experiments.</div>'
 date: 2024-07-04
