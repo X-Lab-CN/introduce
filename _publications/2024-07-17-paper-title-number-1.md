@@ -1,7 +1,7 @@
 ---
 title: "9.Transformer-based end-to-end attack on text CAPTCHAs with triplet deep attention"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-07-17-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a Transformer - based end - to - end method with triplet deep attention to attack text CAPTCHAs, achieving high accuracy on Roman and Chinese captcha datasets and exploring its performance under various conditions.</div>'
 date: 2024-07-17
