@@ -1,7 +1,7 @@
 ---
 title: "19.Attention-based multiple siamese networks with primary representation guiding for offline signature verification"
 collection: publications
-category: manuscripts
+category: 2023
 permalink: /publication/2023-01-20-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “Attention-based multiple siamese networks with primary representation guiding for offline signature verification” presents a method with siamese networks and special modules. It outperforms others on multiple datasets in offline signature verification.</div>'
 date: 2023-01-20
