@@ -1,7 +1,7 @@
 ---
 title: "13.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-01-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes LoRA², which trains LoRAs on orthogonal planes, improves the importance score algorithm, and shows better performance than baselines in fine - tuning large language models with fewer parameters.</div>'
 date: 2024-01-12
