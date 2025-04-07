@@ -1,7 +1,7 @@
 ---
-title: "2025<br/>1.Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting"
+title: "1.Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting"
 collection: publications
-category: manuscripts
+category: 2025
 permalink: /publication/2025-01-08-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper proposes the Iterative Summarization Pre-Prompting (ISP²) method, which enhances the complex reasoning capabilities of large language models by adaptively extracting candidate information, rating the reliability of information pairs, and performing iterative summarization. Experiments show that this method can significantly improve model performance. Additionally, the paper analyzes the summarization steps and error sources of ISP².</div>'
 date: 2025-01-08
