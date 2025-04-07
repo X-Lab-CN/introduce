@@ -1,7 +1,7 @@
 ---
 title: "11.Chinese Writer Identification Using Contour-Directional Feature and Character Pair Similarity Measurement"
 collection: publications
-category: conferences
+category: 2017
 permalink: /publication/2017-10-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using CDF and CPSM for Chinese writer identification fuses two similarities. It outperforms previous methods with high Top - 1 accuracy on two datasets.</div>'
 date: 2017-10-12
