@@ -1,7 +1,7 @@
 ---
 title: "基于频繁模式挖掘算法的中医问诊策略研究"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-01-06-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper uses the frequent pattern mining algorithm and cross - merging method to establish TCM single - and multi - system symptom questioning strategies, which can improve the efficiency of obtaining patient symptom information and promote the objective development of TCM consultation.</div>'
 date: 2024-01-06
