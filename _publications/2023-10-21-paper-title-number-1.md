@@ -1,7 +1,7 @@
 ---
 title: "5.Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery"
 collection: publications
-category: conferences
+category: 2023
 permalink: /publication/2023-10-21-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper “Deep Frame-Point Sequence Consistent Network for Handwriting Trajectory Recovery” presents a two - stream framework for handwriting trajectory recovery. It uses a module to synchronize training and shows good results in experiments.</div>'
 date: 2023-10-21
