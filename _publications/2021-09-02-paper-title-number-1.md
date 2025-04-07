@@ -1,7 +1,7 @@
 ---
 title: "8.Attention Based Multiple Siamese Network for Offline Signature Verification"
 collection: publications
-category: conferences
+category: 2021
 permalink: /publication/2021-09-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an attention - based Multiple Siamese Network for offline signature verification. It uses attention modules and contrastive pairs, and shows better performance than previous methods on multiple datasets.</div>'
 date: 2021-09-02
