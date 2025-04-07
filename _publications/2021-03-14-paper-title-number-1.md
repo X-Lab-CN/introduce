@@ -1,7 +1,7 @@
 ---
 title: "9.An Empirical Study of Text Factors and Their Effects on Chinese Writer Identification"
 collection: publications
-category: conferences
+category: 2021
 permalink: /publication/2021-03-14-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper empirically examines the effects of text factors on Chinese writer identification with text - independent features. It concludes that more characters boost performance, 50 is the minimum number needed, and the number of same characters has little impact above 50.</div>'
 date: 2021-03-14
