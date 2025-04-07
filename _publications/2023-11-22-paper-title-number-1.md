@@ -1,7 +1,7 @@
 ---
 title: "11.Multi-view hypergraph regularized Lp norm least squares twin support vector machines for semi-supervised learning"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2023-11-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes MvHGLpLSTSVM for multi - view semi - supervised learning, combining hypergraph and Lp norm, and validates its effectiveness via experiments.</div>'
 date: 2024-07-02
