@@ -1,7 +1,7 @@
 ---
 title: "33.Attention U-Net with Multilevel Fusion for License Plate Detection"
 collection: publications
-category: manuscripts
+category: 2021
 permalink: /publication/2020-02-28-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an AUMF for license plate detection. It details its architecture, loss function, validates on AOLP dataset, and shows better performance in complex conditions.</div>'
 date: 2021-02-28
