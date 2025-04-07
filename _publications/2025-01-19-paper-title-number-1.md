@@ -1,7 +1,7 @@
 ---
 title: "1.Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace"
 collection: publications
-category: conferences
+category: 2025
 permalink: /publication/2025-01-19-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper proposes DCFT, a method for parameter - efficient fine - tuning of large language models using deconvolution in subspace. It overcomes rank - one decomposition limitations, shows good performance with fewer parameters, and optimizes computational efficiency.</div>'
 date: 2025-01-19
