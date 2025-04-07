@@ -1,7 +1,7 @@
 ---
 title: "3.LRATNet: Local-Relationship-Aware Transformer Network for Table Structure Recognition"
 collection: publications
-category: conferences
+category: 2024
 permalink: /publication/2024-01-28-paper-title-number-1
 excerpt: '<div style="text-align: justify;">“LRATNet: Local-Relationship-Aware Transformer Network for Table Structure Recognition” presents LRATNet. It combines modules for local and global info, a new loss function, and outperforms rivals on 3 datasets in table structure recognition.</div>'
 date: 2024-01-28
