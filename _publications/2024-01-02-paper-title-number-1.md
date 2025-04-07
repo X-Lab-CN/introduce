@@ -1,7 +1,7 @@
 ---
 title: "Chain-of-LoRA: Enhancing the Instruction Fine-Tuning Performance of Low-Rank Adaptation on Diverse Instruction Set"
 collection: publications
-category: manuscripts
+category: 2024
 permalink: /publication/2024-01-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes the Chain-of-LoRA framework, which trains a task - selection LoRA to classify instruction types and task - specific LoRAs for tasks. Experiments show it can achieve performance comparable to direct instruction fine - tuning, balancing performance and disk storage for resource - constrained users.</div>'
 date: 2024-01-02
