@@ -1,7 +1,7 @@
 ---
 title: "38.Improving Text-Independent Chinese Writer Identification with the Aid of Character Pairs"
 collection: publications
-category: manuscripts
+category: 2019
 permalink: /publication/2019-02-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper improves text - independent Chinese writer identification by using the similarity of character pairs. It proposes ECF - based scheme and DFS, and re - ranks candidates. Evaluated on two datasets, it outperforms existing methods with high Top - 1 accuracy.</div>'
 date: 2019-02-04
