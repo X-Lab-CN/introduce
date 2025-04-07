@@ -1,5 +1,5 @@
 ---
-title: "20.结合双金字塔特征融合与级联定位的车牌检测"
+title: "30.结合双金字塔特征融合与级联定位的车牌检测"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-18-paper-title-number-1
