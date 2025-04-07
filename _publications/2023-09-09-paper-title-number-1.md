@@ -1,7 +1,7 @@
 ---
 title: "2.Triplet trustworthiness validation with knowledge graph reasoning"
 collection: publications
-category: manuscripts
+category: 2025
 permalink: /publication/2023-09-09-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents TTMNM, a triple - strategy - based model, to validate knowledge graph triplets. Experiments show it outperforms baselines and is applicable in industrial datasets.</div>'
 date: 2025-01-02
