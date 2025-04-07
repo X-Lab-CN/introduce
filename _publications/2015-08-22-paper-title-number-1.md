@@ -1,7 +1,7 @@
 ---
 title: "12.Text-independent Writer Identification Using SIFT Descriptor and Contour-directional Feature"
 collection: publications
-category: conferences
+category: 2015
 permalink: /publication/2015-08-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using SIFT and CDF for text - independent writer identification is proposed. It has two - stage processing and outperforms other algorithms on two datasets.</div>'
 date: 2015-08-22
