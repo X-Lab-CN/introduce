@@ -1,7 +1,7 @@
 ---
 title: "39.Chapter 8: Off-line Text-independent Writer Identification for Chinese Handwriting"
 collection: publications
-category: manuscripts
+category: 2017
 permalink: /publication/2017-09-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method using CDF and modified SIFT for Chinese writer identification is proposed. It outperforms others, achieving high accuracy on HIT - MW dataset.</div>'
 date: 2017-09-12
