@@ -1,7 +1,7 @@
 ---
 title: "28.Knowledge distilled pre-training model for vision-language-navigation"
 collection: publications
-category: manuscripts
+category: 2022
 permalink: /publication/2022-05-17-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a knowledge - distilled pre - training model for VLN. It shrinks model size and inference time, keeps 95% of the original performance, and outperforms baselines.</div>'
 date: 2022-05-17
