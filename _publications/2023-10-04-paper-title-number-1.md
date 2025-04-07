@@ -1,7 +1,7 @@
 ---
 title: "14.Multiple dependence representation of attention graph convolutional network relation extraction model"
 collection: publications
-category: manuscripts
+category: 2023
 permalink: /publication/2023-10-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents an MDR - GCN relation extraction model using multiple dependency tree representations and a GSF Extractor module, achieving good results on multiple datasets and analyzing relevant factors.</div>'
 date: 2023-10-04
