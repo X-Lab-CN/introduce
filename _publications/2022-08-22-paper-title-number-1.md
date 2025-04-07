@@ -1,7 +1,7 @@
 ---
 title: "7.A Density-based Controller Placement Algorithm for Software Defined Networks"
 collection: publications
-category: conferences
+category: 2022
 permalink: /publication/2022-08-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an improved DCPA for CPP. It calculates controller numbers, uses multiple indicators and K - means, and experiments show it gets low - cost solutions close to the optimal.</div>'
 date: 2022-08-22
