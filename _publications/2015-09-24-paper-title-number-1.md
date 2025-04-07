@@ -1,7 +1,7 @@
 ---
 title: "41.基于两方向动态时间规整的无分割手写汉字检测"
 collection: publications
-category: manuscripts
+category: 2016
 permalink: /publication/2015-09-24-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes a method combining SIFT keypoint location and two - directional DTW for Chinese handwritten character detection without segmentation. It shows good results but has limitations.</div>'
 date: 2016-09-24
