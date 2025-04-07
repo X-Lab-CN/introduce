@@ -1,7 +1,7 @@
 ---
 title: "29.Generalized multi-view learning based on generalized eigenvalues proximal support vector machines"
 collection: publications
-category: manuscripts
+category: 2022
 permalink: /publication/2020-05-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents GMGSVMs and GMIGSVMs for generalized multi - view learning, uses an alternating algorithm for optimization, and proves their superiority via experiments.</div>'
 date: 2022-05-12
