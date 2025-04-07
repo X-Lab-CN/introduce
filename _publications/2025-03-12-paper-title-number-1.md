@@ -1,7 +1,7 @@
 ---
 title: "2.PointABM: Integrating Bidirectional Mamba and Multi-Head Self-Attention for Point Cloud Analysis"
 collection: publications
-category: conferences
+category: 2024
 permalink: /publication/2025-03-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes PointABM, which combines Bidirectional Mamba and Transformer, and it shows improved performance in point cloud analysis with a small increase in parameters.</div>'
 date: 2024-08-12
