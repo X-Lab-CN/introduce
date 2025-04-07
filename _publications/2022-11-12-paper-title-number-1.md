@@ -1,7 +1,7 @@
 ---
 title: "22.Mitigating Lifetime-Energy-Makespan Issues in Reliability-Aware Workflow Scheduling for Big Data"
 collection: publications
-category: manuscripts
+category: 2022
 permalink: /publication/2022-11-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">In the big data era, conventional RWS in cloud computing has issues. We propose a new methodology. Simulations show our RWS strategies are superior and the method has potential for big data systems.</div>'
 date: 2022-11-12
