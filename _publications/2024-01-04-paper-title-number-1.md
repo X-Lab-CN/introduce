@@ -1,7 +1,7 @@
 ---
 title: "FaRE: A Feature-aware Radical Encoding Strategy for Zero-shot Chinese Character Recognition"
 collection: publications
-category: conferences
+category: 2024
 permalink: /publication/2024-01-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes the FaRE strategy, which incorporates visual feature clues into radical encodings. Experiments on ICDAR2013 show it improves zero - shot Chinese character recognition performance compared to state - of - the - art methods.</div>'
 date: 2024-01-04
