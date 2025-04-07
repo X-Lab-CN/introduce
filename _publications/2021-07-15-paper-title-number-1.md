@@ -1,5 +1,5 @@
 ---
-title: "31.Attention U-Net with Feature Fusion Module for Robust Defect Detection"
+title: "44.Attention U-Net with Feature Fusion Module for Robust Defect Detection"
 collection: publications
 category: 2021
 permalink: /publication/2021-07-15-paper-title-number-1
