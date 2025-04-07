@@ -1,7 +1,7 @@
 ---
 title: "37.Chapter 6: Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods"
 collection: publications
-category: manuscripts
+category: 2019
 permalink: /publication/2019-04-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A method for Chinese writer identification uses text - independent and text - dependent features. It fuses two similarities. Experiments show it outperforms previous methods with high Top - 1 accuracy.</div>'
 date: 2019-04-02
