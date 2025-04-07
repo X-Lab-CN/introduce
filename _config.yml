@@ -85,6 +85,26 @@ publication_category:
     title: 'Conference Papers'
   2025:
     title: '2025'
+  2024:
+    title: '2024'
+  2023:
+    title: '2023'
+  2022:
+    title: '2022'
+  2021:
+    title: '2021'
+  2020:
+    title: '2020'
+  2019:
+    title: '2019'
+  2018:
+    title: '2018'
+  2017:
+    title: '2017'
+  2016:
+    title: '2016'
+  2015:
+    title: '2015'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
