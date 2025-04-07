@@ -1,7 +1,7 @@
 ---
 title: "34.基于改进ADRC的四旋翼无人机抗干扰姿态控制系统设计"
 collection: publications
-category: manuscripts
+category: 2020
 permalink: /publication/2019-11-10-paper-title-number-1
 excerpt: '<div style="text-align: justify;">An improved ADRC - based attitude control system for quadrotor UAVs, combining GFTSM, is designed and its superiority is verified by simulations.</div>'
 date: 2020-11-10
