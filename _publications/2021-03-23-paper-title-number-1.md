@@ -1,5 +1,5 @@
 ---
-title: "32.结合倒置特征金字塔和U-Net的高光谱图像分类"
+title: "45.结合倒置特征金字塔和U-Net的高光谱图像分类"
 collection: publications
 category: 2021
 permalink: /publication/2021-03-23-paper-title-number-1
