@@ -1,7 +1,7 @@
 ---
 title: "24.结合数据扩增与残差收缩网络的地震短临预测"
 collection: publications
-category: manuscripts
+category: 2022
 permalink: /publication/2021-10-25-paper-title-number-1
 excerpt: '<div style="text-align: justify;">Paper uses DCGAN and a network for short term quake prediction.</div>'
 date: 2022-10-25
