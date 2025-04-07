@@ -1,7 +1,7 @@
 ---
 title: "6.SET: a squeeze-and-excitation transformer for offline signature verification"
 collection: publications
-category: conferences
+category: 2022
 permalink: /publication/2022-10-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents a SET for offline signature verification, using a modified Swin - Transformer and SE module, and it outperforms existing methods on multiple datasets.</div>'
 date: 2022-10-04
