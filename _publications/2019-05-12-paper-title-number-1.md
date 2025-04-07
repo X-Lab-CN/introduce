@@ -1,7 +1,7 @@
 ---
 title: "40.Off-line Text-Independent Writer Recognition: A Survey"
 collection: publications
-category: manuscripts
+category: 2017
 permalink: /publication/2019-05-12-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper focuses on off - line text - independent writer recognition. It summarizes methods, shows datasets, and compares performances. Spatial features outperform others in some aspects.</div>'
 date: 2017-05-12
