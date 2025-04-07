@@ -1,7 +1,7 @@
 ---
 title: "4.Free Lunch: Frame-level Contrastive Learning with Text Perceiver for Robust Scene Text Recognition in Lightweight Models"
 collection: publications
-category: conferences
+category: 2024
 permalink: /publication/2024-01-19-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper presents a frame - level contrastive learning framework with a Text Perceiver for lightweight scene text recognition models, improving performance, especially in low - quality scenarios, with effectiveness verified by experiments.</div>'
 date: 2024-01-19
