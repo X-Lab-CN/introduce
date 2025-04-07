@@ -1,7 +1,7 @@
 ---
 title: "35.改进遗传算法的无人机路径规划"
 collection: publications
-category: manuscripts
+category: 2020
 permalink: /publication/2019-11-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes an improved genetic algorithm - based path planning method for UAVs to ensure flight safety and shorter distances, and verifies its superiority through experiments.</div>'
 date: 2020-11-10
