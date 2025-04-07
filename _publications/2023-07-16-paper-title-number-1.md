@@ -1,7 +1,7 @@
 ---
 title: "16.CODP-1200: An AIGC based benchmark for assisting in child language acquisition"
 collection: publications
-category: manuscripts
+category: 2023
 permalink: /publication/2023-07-16-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper constructs the CODP - 1200 dataset using AIGC for child language acquisition and proposes the DDMXCap method, with experiments validating its efficacy.</div>'
 date: 2023-07-16
