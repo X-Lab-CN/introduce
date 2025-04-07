@@ -1,7 +1,7 @@
 ---
 title: "36.A Lightweight Improved U-Net with Shallow Features Combination and Its Application to Defect Detection"
 collection: publications
-category: manuscripts
+category: 2020
 permalink: /publication/2020-03-10-paper-title-number-1
 excerpt: '<div style="text-align: justify;">A lightweight IU - Net with shallow features combination is proposed, reducing drawbacks, and is applied to detect small metal product defects, outperforming other methods.</div>'
 date: 2020-03-10
