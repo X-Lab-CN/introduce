@@ -18,12 +18,14 @@ author_profile: true
 - IEEE Transactions on Affective Computing
 - IEEE Transactions on Intelligent Systems and Technology
 - Applied Intelligence
+- IEEE Transactions on Biomedical Engineering
 - IEEE Transactions on Consumer Electronics
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Computational Social System
 - Multimedia Systems
 - Chinese Optics Letters
 - Machine Vision and Applications
+- Knowledge-Based Systems
 - IEEE Signal Processing Letters
 - IET Image Processing
 - International Journal of Computers and Applications
