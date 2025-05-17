@@ -5,7 +5,7 @@ category: 2022
 permalink: /publication/2022-08-22-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper presents an improved DCPA for CPP. It calculates controller numbers, uses multiple indicators and K - means, and experiments show it gets low - cost solutions close to the optimal.</div>'
 date: 2022-08-22
-venue: 'International Conference on Cyber'
+venue: 'International Conference on Cyber, Physical and Social Computing'
 paperurl: 'http://xiongyujie.cn/files/A_Density-based_Controller_Placement_Algorithm.pdf'
 citation: '<br/><div style="text-align: justify;">A Density-based Controller Placement Algorithm for Software Defined Networks, J. Chen, Y.-J. Xiong* and D. He, in Proceedings of the International Conference on Cyber, Physical and Social Computing, (2022) pp. 287-291</div>'
 ---
