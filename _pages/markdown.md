@@ -28,6 +28,8 @@ redirect_from:
 
 ### **Graduate Students**
 
+- **National Scholarship for Graduate Students (Chen Yanxu)**, Supervisor, 2025.
+- **National Scholarship for Graduate Students (Zhang Bo)**, Supervisor, 2025.
 - **National Scholarship for Graduate Students (Ren Jianxin)**, Supervisor, 2023.
 - **Second Prize, China Graduate Mathematical Modeling Competition**, Supervisor, 2022.
 - **Third Prize, China Graduate Mathematical Modeling Competition**, Supervisor, 2022.
