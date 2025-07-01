@@ -1,5 +1,5 @@
 ---
-title: "50.Handwriting and Hand-Sketched Graphics Detection Using Convolutional Neural Networks"
+title: "51.Handwriting and Hand-Sketched Graphics Detection Using Convolutional Neural Networks"
 collection: publications
 category: 2020
 permalink: /publication/2020-10-09-paper-title-number-1
