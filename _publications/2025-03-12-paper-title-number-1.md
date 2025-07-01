@@ -1,5 +1,5 @@
 ---
-title: "9.PointABM: Integrating Bidirectional Mamba and Multi-Head Self-Attention for Point Cloud Analysis"
+title: "10.PointABM: Integrating Bidirectional Mamba and Multi-Head Self-Attention for Point Cloud Analysis"
 collection: publications
 category: 2024
 permalink: /publication/2025-03-12-paper-title-number-1
