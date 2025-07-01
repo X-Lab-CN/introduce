@@ -1,5 +1,5 @@
 ---
-title: "25.2C2S: A two-channel and two-stream transformer based framework for offline signature verification"
+title: "26.2C2S: A two-channel and two-stream transformer based framework for offline signature verification"
 collection: publications
 category: 2023
 permalink: /publication/2022-07-29-paper-title-number-1
