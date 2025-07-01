@@ -1,5 +1,5 @@
 ---
-title: "21.Discrete diffusion models with Refined Language-Image Pre-trained representations for remote sensing image captioning"
+title: "22.Discrete diffusion models with Refined Language-Image Pre-trained representations for remote sensing image captioning"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-03-paper-title-number-1
