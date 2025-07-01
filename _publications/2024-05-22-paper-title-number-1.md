@@ -1,5 +1,5 @@
 ---
-title: "14.Text Classification Model Based on Graph Attention Networks and Adversarial Training"
+title: "15.Text Classification Model Based on Graph Attention Networks and Adversarial Training"
 collection: publications
 category: 2024
 permalink: /publication/2024-05-22-paper-title-number-1
