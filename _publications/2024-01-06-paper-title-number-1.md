@@ -1,5 +1,5 @@
 ---
-title: "18.基于频繁模式挖掘算法的中医问诊策略研究"
+title: "19.基于频繁模式挖掘算法的中医问诊策略研究"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-06-paper-title-number-1
