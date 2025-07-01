@@ -1,5 +1,5 @@
 ---
-title: "41.Generalized multi-view learning based on generalized eigenvalues proximal support vector machines"
+title: "42.Generalized multi-view learning based on generalized eigenvalues proximal support vector machines"
 collection: publications
 category: 2022
 permalink: /publication/2020-05-12-paper-title-number-1
