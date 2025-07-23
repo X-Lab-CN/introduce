@@ -53,10 +53,7 @@ redirect_from:
 - Zhu Donghai (Since 2023)
 - Zhou Zheng (Since 2023)
 - Xu Yan (Since 2023)
-- Dai Yufan (Since 2022)
 - Dai Min (Since 2022)
-- Chen Yanxu (Since 2022)
-- Zhang Bo (Since 2022)
 
 ### Graduated
 
@@ -70,6 +67,9 @@ redirect_from:
 - Jiang Hao, 2021 - 2024. Destination after graduation: Civil servant.
 - Zhang Guowei, 2021 - 2024. Destination after graduation: Jinan Branch of Qilu Bank.
 - Li Jing, 2020 - 2024. Destination after graduation: China Tower Co., Ltd.
+- Chen Yanxu, 2022 - 2025. Destination after graduation: China Tower Corporation Limited Hubei Branch.
+- Dai Yufan, 2022 - 2025. China Laser Magazine Co., Ltd.
+- Zhang Bo, 2022 - 2025. voluntary career selection.
 
 ### Student Recruitment
 
