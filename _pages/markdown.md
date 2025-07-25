@@ -69,7 +69,7 @@ redirect_from:
 - Li Jing, 2020 - 2024. Destination after graduation: China Tower Co., Ltd.
 - Chen Yanxu, 2022 - 2025. Destination after graduation: China Tower Corporation Limited Hubei Branch.
 - Dai Yufan, 2022 - 2025. China Laser Magazine Co., Ltd.
-- Zhang Bo, 2022 - 2025. voluntary career selection.
+- Zhang Bo, 2022 - 2025. China Mobile Group Anhui Co., Ltd.
 
 ### Student Recruitment
 
