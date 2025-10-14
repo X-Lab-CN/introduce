@@ -1,5 +1,5 @@
 ---
-title: "52.A Lightweight Improved U-Net with Shallow Features Combination and Its Application to Defect Detection"
+title: "56.A Lightweight Improved U-Net with Shallow Features Combination and Its Application to Defect Detection"
 collection: publications
 category: 2020
 permalink: /publication/2020-03-10-paper-title-number-1
