@@ -1,5 +1,5 @@
 ---
-title: "33.Mitigating Lifetime-Energy-Makespan Issues in Reliability-Aware Workflow Scheduling for Big Data"
+title: "37.Mitigating Lifetime-Energy-Makespan Issues in Reliability-Aware Workflow Scheduling for Big Data"
 collection: publications
 category: 2022
 permalink: /publication/2022-11-12-paper-title-number-1
