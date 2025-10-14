@@ -1,5 +1,5 @@
 ---
-title: "48.Attention U-Net with Multilevel Fusion for License Plate Detection"
+title: "52.Attention U-Net with Multilevel Fusion for License Plate Detection"
 collection: publications
 category: 2021
 permalink: /publication/2020-02-28-paper-title-number-1
