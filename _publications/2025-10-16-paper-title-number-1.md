@@ -5,7 +5,7 @@ category: 2025
 permalink: /publication/2025-10-16-paper-title-number-1
 excerpt: '<div style="text-align: justify;">MoB is a training-free visual token pruning method for MLLMs that uses geometric covering theory to optimally balance prompt alignment and visual preservation, achieving high acceleration with minimal performance loss.</div>'
 date: 2025-10-16
-venue: 'SSRN'
+venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'http://xiongyujie.cn/files/nips.pdf'
 citation: '<br/><div style="text-align: justify;">Li, Yangfu,  Zhan, Hongjian, Chen, Tianyi, Xiong Yu-Jie, Liu Qi & Lu, Yue. Why 1+ 1< 1 in Visual Token Pruning: Beyond Naive Integration via Multi-Objective Balanced Covering. Advances in Neural Information Processing Systems, 39</div>'
 ---
