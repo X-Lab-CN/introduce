@@ -1,5 +1,5 @@
 ---
-title: "2.Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace"
+title: "6.Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-19-paper-title-number-1
