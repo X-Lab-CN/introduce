@@ -1,5 +1,5 @@
 ---
-title: "27.CODP-1200: An AIGC based benchmark for assisting in child language acquisition"
+title: "31.CODP-1200: An AIGC based benchmark for assisting in child language acquisition"
 collection: publications
 category: 2023
 permalink: /publication/2023-07-16-paper-title-number-1
