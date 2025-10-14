@@ -1,5 +1,5 @@
 ---
-title: "39.A cross entropy based approach to minimum propagation latency for controller placement in Software Defined Network"
+title: "43.A cross entropy based approach to minimum propagation latency for controller placement in Software Defined Network"
 collection: publications
 category: 2022
 permalink: /publication/2021-08-10-paper-title-number-1
