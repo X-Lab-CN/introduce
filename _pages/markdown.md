@@ -44,7 +44,7 @@ redirect_from:
 
 ### Current
 - Gao Hengjing (Since 2025)
-- Wang Xianwei (Since 2025)
+- Wang Xiangwei (Since 2025)
 - Wang Jingwen (Since 2025)
 - Yan Zhenwei (Since 2025)
 - [Wu Yuhang (Since 2024)](https://blog.csdn.net/weixin_57128596?type=blog)
