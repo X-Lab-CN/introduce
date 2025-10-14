@@ -4,7 +4,7 @@ collection: publications
 category: 2025
 permalink: /publication/2025-10-13-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes MDM-DTA, a novel drug–target affinity prediction model that integrates molecular graphs, molecular descriptors, and protein semantic embeddings via a Mixture of Experts framework to achieve state-of-the-art performance.</div>'
-date: 2025-10-13
+date: 2025-10-15
 venue: 'SSRN'
 paperurl: 'http://xiongyujie.cn/files/mdm.pdf'
 citation: '<br/><div style="text-align: justify;">Dai, Y., Tan, X., Wang, H., Ma, G., Yu-Jie, X., & Qiu, X. H. Mdm-Dta: Message Passing Neural Network with Molecular Descriptors and Mixture of Experts for Drug-Target Affinity Prediction. Available at SSRN 5315145</div>'
