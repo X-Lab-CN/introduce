@@ -1,5 +1,5 @@
 ---
-title: "35.结合数据扩增与残差收缩网络的地震短临预测"
+title: "39.结合数据扩增与残差收缩网络的地震短临预测"
 collection: publications
 category: 2022
 permalink: /publication/2021-10-25-paper-title-number-1
