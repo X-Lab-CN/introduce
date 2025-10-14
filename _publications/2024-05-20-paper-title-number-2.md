@@ -1,5 +1,5 @@
 ---
-title: "29.两阶段问答范式的生物医学事件触发词检测"
+title: "33.两阶段问答范式的生物医学事件触发词检测"
 collection: publications
 category: 2023
 permalink: /publication/2024-05-20-paper-title-number-2
