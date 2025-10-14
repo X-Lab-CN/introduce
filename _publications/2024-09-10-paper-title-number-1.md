@@ -1,5 +1,5 @@
 ---
-title: "9.Kalman-SSM: Modeling Long-Term Time Series With Kalman Filter Structured State Spaces"
+title: "13.Kalman-SSM: Modeling Long-Term Time Series With Kalman Filter Structured State Spaces"
 collection: publications
 category: 2024
 permalink: /publication/2024-09-10-paper-title-number-1
