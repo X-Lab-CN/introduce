@@ -43,7 +43,10 @@ redirect_from:
 ## Student Cultivation
 
 ### Current
-
+- Gao Hengjing (Since 2025)
+- Wang Xianwei (Since 2025)
+- Wang Jingwen (Since 2025)
+- Yan Zhenwei (Since 2025)
 - [Wu Yuhang (Since 2024)](https://blog.csdn.net/weixin_57128596?type=blog)
 - [Gao Jingcheng (Since 2024)](http://rayzark.fun/)
 - [Zhang Hanjia (Since 2024)](https://princezhang77.github.io/)
