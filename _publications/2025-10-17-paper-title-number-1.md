@@ -6,7 +6,7 @@ permalink: /publication/2025-10-17-paper-title-number-1
 excerpt: '<div style="text-align: justify;">MoB is a training-free visual token pruning method for MLLMs that uses geometric covering theory to optimally balance prompt alignment and visual preservation, achieving high acceleration with minimal performance loss.</div>'
 date: 2025-10-17
 venue: 'Proceedings of the IEEE/CVF international conference on computer vision'
-paperurl: 'http://xiongyujie.cn/files/nips.pdf'
+paperurl: 'http://xiongyujie.cn/files/1096_MSA_2_Multi_task_Framewor.pdf'
 citation: '<br/><div style="text-align: justify;">MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation. Yangfu Li, Hongjian Zhan, Qi Liu, Li Sun, Yu-Jie Xiong, Yue Lu. Proceedings of the IEEE/CVF international conference on computer vision. 2025</div>'
 ---
 
