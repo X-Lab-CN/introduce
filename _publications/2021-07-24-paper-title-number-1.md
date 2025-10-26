@@ -1,5 +1,5 @@
 ---
-title: "48.PC-SuperPoint: interest point detection and descriptor extraction using pyramid convolution and circle loss"
+title: "48.PC-SuperPoint: Interest Point Detection and Descriptor Extraction Using Pyramid Convolution and Circle Loss"
 collection: publications
 category: 2021
 permalink: /publication/2021-07-24-paper-title-number-1
