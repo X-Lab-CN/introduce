@@ -2,9 +2,9 @@
 title: "23.基于频繁模式挖掘算法的中医问诊策略研究"
 collection: publications
 category: 2024
-permalink: /publication/2024-01-06-paper-title-number-1
+permalink: /publication/2024-01-07-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper uses the frequent pattern mining algorithm and cross - merging method to establish TCM single - and multi - system symptom questioning strategies, which can improve the efficiency of obtaining patient symptom information and promote the objective development of TCM consultation.</div>'
-date: 2024-01-06
+date: 2024-01-07
 venue: '世界科学技术-中医药现代化'
 paperurl: 'http://xiongyujie.cn/files/基于频繁模式挖掘算法的中医问诊策略研究_李瑞珍.pdf'
 citation: '<br/><div style="text-align: justify;">基于频繁模式挖掘算法的中医问诊策略研究, 李瑞珍, 夏春明*, 王忆勤, 许朝霞, 熊玉洁, 世界科学技术-中医药现代化, 2024, 26.6: 1608-1617</div>'
