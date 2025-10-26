@@ -4,7 +4,7 @@ collection: publications
 category: 2024
 permalink: /publication/2024-05-20-paper-title-number-2
 excerpt: '<div style="text-align: justify;">This paper proposes a biomedical event trigger detection method based on a two - stage question - answering paradigm. It uses syntactic - distance - based attention and word - entity - event co - occurrence features to address existing problems in trigger detection. Experiments on the MLEE corpus show that the model outperforms baseline models, with an F1 - score of 81.39%, and the author also plans to explore further improvements in the future.</div>'
-date: 2023-05-20
+date: 2024-05-20
 venue: '计算机工程与应用'
 paperurl: 'http://xiongyujie.cn/files/两阶段问答范式的生物医学事件触发词检测.pdf'
 citation: '<br/><div style="text-align: justify;">两阶段问答范式的生物医学事件触发词检测, 行帅, 熊玉洁*，苏前敏*, 黄继汉, 计算机工程与应用, 2024, 60.10: 21-131</div>'
