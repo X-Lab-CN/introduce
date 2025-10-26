@@ -4,7 +4,7 @@ collection: publications
 category: 2024
 permalink: /publication/2023-07-16-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper constructs the CODP - 1200 dataset using AIGC for child language acquisition and proposes the DDMXCap method, with experiments validating its efficacy.</div>'
-date: 2024-12-31
+date: 2024-01-01
 venue: 'Displays'
 paperurl: 'http://xiongyujie.cn/files/CODP-1200_An_AIGC_based_benchmark_for_assisting_in_child_language_acquisition.pdf'
 citation: '<br/><div style="text-align: justify;">CODP-1200: An AIGC Based Benchmark for Assisting in Child Language Acquisition, G. Leng, G. Zhang, Y.-J. Xiong* and J. Chen, Displays, 2024, 82: 102627</div>'
