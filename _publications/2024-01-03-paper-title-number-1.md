@@ -2,9 +2,9 @@
 title: "27.Chain-of-LoRA: Enhancing the Instruction Fine-Tuning Performance of Low-Rank Adaptation on Diverse Instruction Set"
 collection: publications
 category: 2024
-permalink: /publication/2024-01-02-paper-title-number-1
+permalink: /publication/2024-01-03-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes the Chain-of-LoRA framework, which trains a task - selection LoRA to classify instruction types and task - specific LoRAs for tasks. Experiments show it can achieve performance comparable to direct instruction fine - tuning, balancing performance and disk storage for resource - constrained users.</div>'
-date: 2024-01-02
+date: 2024-01-03
 venue: 'IEEE SIGNAL PROCESSING LETTERS'
 paperurl: 'http://xiongyujie.cn/files/Chain-of-lora Enhancing the instruction fine-tuning performance of low-rank adaptation on diverse instruction set.pdf'
 citation: '<br/><div style="text-align: justify;">Chain-of-LoRA: Enhancing the Instruction Fine-Tuning Performance of Low-Rank Adaptation on Diverse Instruction Set, Qiu Xihe, Hao Teqi, Shi Shaojie, Tan Xiaoyu*,Xiong Yu-jie, IEEE Signal Processing Letters, 2024, 31: 875-879</div>'
