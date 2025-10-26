@@ -2,9 +2,9 @@
 title: "26.Discrete Diffusion Models with Refined Language-Image Pre-trained Representations for Remote Sensing Image Captioning"
 collection: publications
 category: 2024
-permalink: /publication/2024-01-03-paper-title-number-1
+permalink: /publication/2024-01-04-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes DDM - RLIP, which applies a discrete diffusion model with refined pre - trained representations to remote sensing image captioning. Experiments on three datasets show it outperforms traditional autoregressive models.</div>'
-date: 2024-01-03
+date: 2024-01-04
 venue: 'Pattern Recognition Letters'
 paperurl: 'http://xiongyujie.cn/files/Discrete diffusion models with Refined Language-Image Pre-trained representations for remote sensing image captioning.pdf'
 citation: '<br/><div style="text-align: justify;">Discrete Diffusion Models with Refined Language-Image Pre-trained Representations for Remote Sensing Image Captioning, Guannan Leng, Xiong Yu-jie*, Chunping Qiu*, Congzhou Guo, Pattern Recognition Letters, 2024, 186: 164-169</div>'
