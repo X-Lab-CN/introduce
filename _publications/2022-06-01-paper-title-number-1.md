@@ -1,5 +1,5 @@
 ---
-title: "34.PDCSN: A Partition Density Clustering with Self-adaptive Neighborhoods"
+title: "33.PDCSN: A Partition Density Clustering with Self-adaptive Neighborhoods"
 collection: publications
 category: 2023
 permalink: /publication/2022-06-01-paper-title-number-1
