@@ -37,6 +37,7 @@ author_profile: true
 
 ### Member of the Technical Procedures Committee
 
+- The International Conference on Information Communication and Signal Processing (ICICSP), 2026.
 - The International Conference on Parallel and Distributed Systems (ICPADS), 2023.
 - The International Conference on Ubiquitous Intelligence and Computing (UIC), 2022.
 - The International Conference on Data Mining Workshop on Multi-view Representation Learning (ICDMW-MRL), 2022.
