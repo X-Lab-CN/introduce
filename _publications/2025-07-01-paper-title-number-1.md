@@ -1,5 +1,5 @@
 ---
-title: "6.PAST: Pairwise Attention Swin Transformer for Offline Signature Verification"
+title: "11.PAST: Pairwise Attention Swin Transformer for Offline Signature Verification"
 collection: publications
 category: 2025
 permalink: /publication/2025-07-01-paper-title-number-1
