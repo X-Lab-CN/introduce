@@ -1,5 +1,5 @@
 ---
-title: "53.基于改进ADRC的四旋翼无人机抗干扰姿态控制系统设计"
+title: "58.基于改进ADRC的四旋翼无人机抗干扰姿态控制系统设计"
 collection: publications
 category: 2020
 permalink: /publication/2019-11-10-paper-title-number-1
