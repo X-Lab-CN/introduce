@@ -5,7 +5,7 @@ category: 2025
 permalink: /publication/2025-11-01-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper proposes CRGT-SA, a novel spatiotemporal deep learning model that integrates CNN, LSTM, gated TCN, and a self-attention mechanism for intrusion detection. Experiments on the UNSW-NB15 and NSL-KDD datasets demonstrate its superior accuracy, F1-score, and generalization capability compared to existing methods.</div>'
 date: 2025-11-01
-venue: ''
+venue: 'Frontiers of Information Technology & Electronic Engineering'
 paperurl: 'http://xiongyujie.cn/files/CRGT_SA_an_interlaced_and_spatiotemporal_deep_learning_model_for_network_intrusion_detection.pdf'
 citation: '<br/><div style="text-align: justify;">CRGT-SA: an interlaced and spatiotemporal deep learning model for network intrusion detection, J. C, W.-X. L, X.-H. Q, W.-J. L, Y.-J. X, Frontiers of Information Technology & Electronic Engineering, 2025, 26.7: 1115--1130.</div>'
 ---
