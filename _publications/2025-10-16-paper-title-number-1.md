@@ -1,5 +1,5 @@
 ---
-title: "3.Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naïve Integration via Multi-Objective Balanced Covering"
+title: "8.Why 1 + 1 < 1 in Visual Token Pruning: Beyond Naïve Integration via Multi-Objective Balanced Covering"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-16-paper-title-number-1
