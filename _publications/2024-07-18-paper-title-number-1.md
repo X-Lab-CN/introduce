@@ -1,5 +1,5 @@
 ---
-title: "16.Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models"
+title: "21.Towards Collaborative Intelligence: Propagating Intentions and Reasoning for Multi-Agent Coordination with Large Language Models"
 collection: publications
 category: 2024
 permalink: /publication/2024-07-18-paper-title-number-1
