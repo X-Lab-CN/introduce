@@ -1,5 +1,5 @@
 ---
-title: "46.Generalized Multi-view Learning Based on Generalized Eigenvalues Proximal Support Vector Machines"
+title: "51.Generalized Multi-view Learning Based on Generalized Eigenvalues Proximal Support Vector Machines"
 collection: publications
 category: 2022
 permalink: /publication/2020-05-12-paper-title-number-1
