@@ -1,5 +1,5 @@
 ---
-title: "34.Attention-based Multiple Siamese Networks with Primary Representation Guiding for Offline Signature Verification"
+title: "39.Attention-based Multiple Siamese Networks with Primary Representation Guiding for Offline Signature Verification"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-20-paper-title-number-1
