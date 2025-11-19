@@ -1,5 +1,5 @@
 ---
-title: "57.Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods"
+title: "62.Improving Chinese Writer Identification by Fusion of Text-dependent and Text-independent Methods"
 collection: publications
 category: 2019
 permalink: /publication/2019-04-02-paper-title-number-1
