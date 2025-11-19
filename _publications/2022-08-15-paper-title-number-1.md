@@ -1,5 +1,5 @@
 ---
-title: "42.License Plate Detection with Attention-Guided Dual Feature Pyramid Networks in Complex Environments"
+title: "47.License Plate Detection with Attention-Guided Dual Feature Pyramid Networks in Complex Environments"
 collection: publications
 category: 2022
 permalink: /publication/2022-08-15-paper-title-number-1
