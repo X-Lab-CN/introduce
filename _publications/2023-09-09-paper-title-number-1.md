@@ -1,5 +1,5 @@
 ---
-title: "9.Triplet Trustworthiness Validation with Knowledge Graph Reasoning"
+title: "14.Triplet Trustworthiness Validation with Knowledge Graph Reasoning"
 collection: publications
 category: 2025
 permalink: /publication/2023-09-09-paper-title-number-1
