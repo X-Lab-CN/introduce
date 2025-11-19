@@ -1,5 +1,5 @@
 ---
-title: "5.Sugar-Coated Poison: Benign Generation Unlocks Jailbreaking"
+title: "10.Sugar-Coated Poison: Benign Generation Unlocks Jailbreaking"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-14-paper-title-number-1
