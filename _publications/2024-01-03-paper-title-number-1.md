@@ -1,5 +1,5 @@
 ---
-title: "27.Chain-of-LoRA: Enhancing the Instruction Fine-Tuning Performance of Low-Rank Adaptation on Diverse Instruction Set"
+title: "32.Chain-of-LoRA: Enhancing the Instruction Fine-Tuning Performance of Low-Rank Adaptation on Diverse Instruction Set"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-03-paper-title-number-1
