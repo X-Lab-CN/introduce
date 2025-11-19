@@ -1,5 +1,5 @@
 ---
-title: "10.AutoGRN: An Adaptive Multi-channel Graph Recurrent Joint Optimization Network with Copula-based Dependency Modeling for Spatio-temporal Fusion in Electrical Power Systems"
+title: "15.AutoGRN: An Adaptive Multi-channel Graph Recurrent Joint Optimization Network with Copula-based Dependency Modeling for Spatio-temporal Fusion in Electrical Power Systems"
 collection: publications
 category: 2024
 permalink: /publication/2024-11-13-paper-title-number-1
