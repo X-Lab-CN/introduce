@@ -1,5 +1,5 @@
 ---
-title: "60.Off-line Text-independent Writer Identification for Chinese Handwriting"
+title: "65.Off-line Text-independent Writer Identification for Chinese Handwriting"
 collection: publications
 category: 2017
 permalink: /publication/2017-09-12-paper-title-number-1
