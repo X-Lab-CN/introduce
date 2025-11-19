@@ -1,5 +1,5 @@
 ---
-title: "41.A Density-based Controller Placement Algorithm for Software Defined Networks"
+title: "46.A Density-based Controller Placement Algorithm for Software Defined Networks"
 collection: publications
 category: 2022
 permalink: /publication/2022-08-22-paper-title-number-1
