@@ -1,5 +1,5 @@
 ---
-title: "45.Knowledge Distilled Pre-training Model for Vision-language-navigation"
+title: "50.Knowledge Distilled Pre-training Model for Vision-language-navigation"
 collection: publications
 category: 2022
 permalink: /publication/2022-05-17-paper-title-number-1
