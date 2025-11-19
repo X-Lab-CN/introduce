@@ -1,5 +1,5 @@
 ---
-title: "4.Mdm-Dta: Message Passing Neural Network with Molecular Descriptors and Mixture of Experts for Drug-Target Affinity Prediction"
+title: "9.Mdm-Dta: Message Passing Neural Network with Molecular Descriptors and Mixture of Experts for Drug-Target Affinity Prediction"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-13-paper-title-number-1
