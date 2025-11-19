@@ -6,7 +6,7 @@ permalink: /publication/2025-11-02-paper-title-number-1
 excerpt: '<div style="text-align: justify;">To tackle key limitations of unsupervised multi-view feature selection, this paper proposes GDFS, which fuses global-local graphs, reduces structural discrepancies, and uses low-rank tensor constraint/consensus clustering for feature selection, outperforming SOTA methods on six benchmarks.</div>'
 date: 2025-11-02
 venue: 'Neurocomputing'
-paperurl:'http://xiongyujie.cn/files/Multi-view unsupervised feature selection based on graph discrepancy learning.pdf'
+paperurl: 'http://xiongyujie.cn/files/Multi-view unsupervised feature selection based on graph discrepancy learning.pdf'
 citation: '<br/><div style="text-align: justify;">Multi-view unsupervised feature selection based on graph discrepancy learning, Y.-W. X, X.-J. X, X.-L. J, Y.-J. X,  Neurocomputing, 2025, 656: 131487.</div>'
 ---
 
