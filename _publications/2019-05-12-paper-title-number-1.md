@@ -1,5 +1,5 @@
 ---
-title: "61.Off-line Text-Independent Writer Recognition: A Survey"
+title: "66.Off-line Text-Independent Writer Recognition: A Survey"
 collection: publications
 category: 2017
 permalink: /publication/2019-05-12-paper-title-number-1
