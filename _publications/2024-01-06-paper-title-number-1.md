@@ -1,5 +1,5 @@
 ---
-title: "24.基于Transformer特征通道融合的舌像分割"
+title: "29.基于Transformer特征通道融合的舌像分割"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-06-paper-title-number-1
