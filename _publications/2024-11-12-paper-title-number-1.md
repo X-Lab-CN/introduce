@@ -1,5 +1,5 @@
 ---
-title: "11.Few-Shot Named Entity Recognition with the Integration of Spatial Features"
+title: "16.Few-Shot Named Entity Recognition with the Integration of Spatial Features"
 collection: publications
 category: 2024
 permalink: /publication/2024-11-12-paper-title-number-1
