@@ -1,11 +1,11 @@
 ---
-title: "1.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
+title: "7.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-18-paper-title-number-1
 excerpt: '<div style="text-align: justify;">The paper proposes LoRA², which trains LoRAs on orthogonal planes, improves the importance score algorithm, and shows better performance than baselines in fine - tuning large language models with fewer parameters.</div>'
 date: 2025-10-18
-venue: 'arXiv'
+venue: 'Neurocomputing'
 paperurl: 'http://xiongyujie.cn/files/LoRA² _Multi-Scale_Low-Rank_Approximations_for_Fine-Tuning_Large_Language_Models.pdf'
 citation: '<br/><div style="text-align: justify;">LoRA² :Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models, J.-C. Zhang, Y.-J. Xiong*, X.-H. Qiu, D.-H. Zhu, C.-M. Xia, Neurocomputing, 2025, 650: 130859</div>'
 ---
