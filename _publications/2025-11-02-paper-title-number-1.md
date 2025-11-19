@@ -1,5 +1,5 @@
 ---
-title: "2.Multi-view unsupervised feature selection based on graph discrepancy learning"
+title: "4.Multi-view unsupervised feature selection based on graph discrepancy learning"
 collection: publications
 category: 2025
 permalink: /publication/2025-11-02-paper-title-number-1
