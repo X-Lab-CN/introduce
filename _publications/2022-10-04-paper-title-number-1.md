@@ -1,5 +1,5 @@
 ---
-title: "40.SET: A Squeeze-and-excitation Transformer for Offline Signature Verification"
+title: "45.SET: A Squeeze-and-excitation Transformer for Offline Signature Verification"
 collection: publications
 category: 2022
 permalink: /publication/2022-10-04-paper-title-number-1
