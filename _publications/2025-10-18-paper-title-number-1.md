@@ -1,5 +1,5 @@
 ---
-title: "7.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
+title: "6.LoRA² : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-18-paper-title-number-1
