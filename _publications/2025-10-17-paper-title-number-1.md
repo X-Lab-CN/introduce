@@ -1,5 +1,5 @@
 ---
-title: "2.MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation"
+title: "7.MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation"
 collection: publications
 category: 2025
 permalink: /publication/2025-10-17-paper-title-number-1
