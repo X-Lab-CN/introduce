@@ -44,9 +44,9 @@ redirect_from:
 
 ### Current
 - Gao Hengjing (Since 2025)
-- Wang Xiangwei (Since 2025)
+- [Wang Xiangwei (Since 2025)](https://wxw9458-web.github.io/)
 - Wang Jingwen (Since 2025)
-- Yan Zhenwei (Since 2025)
+- [Yan Zhenwei (Since 2025)](https://yan-zhenwei.github.io)
 - [Wu Yuhang (Since 2024)](https://blog.csdn.net/weixin_57128596?type=blog)
 - [Gao Jingcheng (Since 2024)](http://rayzark.fun/)
 - [Zhang Hanjia (Since 2024)](https://princezhang77.github.io/)
