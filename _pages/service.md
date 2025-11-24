@@ -49,4 +49,4 @@ author_profile: true
 - Publicity Chairs for IEEE ICICSP 2026.
 
 ### Editorial Member
-- Editorial Member, Wuhan University Journal of Natural Sciences
+- Editorial Member, Wuhan University Journal of Natural Sciences.
