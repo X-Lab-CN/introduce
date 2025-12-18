@@ -28,6 +28,8 @@ redirect_from:
 
 ### **Graduate Students**
 
+- **First Prize, 7th Shanghai Postgraduate Smart City Creative Design Competition & 5th Yangtze River Delta Postgraduate Smart City Creative Design Competition**, Supervisor, 2025.
+- **National Scholarship for Graduate Students (Zhang Jiachen)**, Supervisor, 2025.
 - **National Scholarship for Graduate Students (Chen Yanxu)**, Supervisor, 2025.
 - **National Scholarship for Graduate Students (Zhang Bo)**, Supervisor, 2025.
 - **National Scholarship for Graduate Students (Ren Jianxin)**, Supervisor, 2023.
