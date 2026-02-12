@@ -45,9 +45,9 @@ redirect_from:
 ## Student Cultivation
 
 ### Current
-- Gao Hengjing (Since 2025)
+- [Gao Hengjing (Since 2025)](https://gaohengjing.notion.site/29970c96bf7d81408958c71727c5afd4?v=30470c96bf7d802c93ed000caf456787&pvs=74)
 - [Wang Xiangwei (Since 2025)](https://wxw9458-web.github.io/)
-- Wang Jingwen (Since 2025)
+- [Wang Jingwen (Since 2025)](https://dilyna.github.io/)
 - [Yan Zhenwei (Since 2025)](https://yan-zhenwei.github.io)
 - [Wu Yuhang (Since 2024)](https://blog.csdn.net/weixin_57128596?type=blog)
 - [Gao Jingcheng (Since 2024)](http://rayzark.fun/)
