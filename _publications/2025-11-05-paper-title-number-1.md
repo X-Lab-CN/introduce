@@ -1,5 +1,5 @@
 ---
-title: "1.Multi-view Unsupervised Feature Selection with Unified Measurement of Consistency and Diversity"
+title: "4.Multi-view Unsupervised Feature Selection with Unified Measurement of Consistency and Diversity"
 collection: publications
 category: 2025
 permalink: /publication/2025-11-05-paper-title-number-1
