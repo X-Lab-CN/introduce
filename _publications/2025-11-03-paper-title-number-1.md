@@ -1,5 +1,5 @@
 ---
-title: "3.Multi-view semi-supervised feature selection with multi-order similarity and tensor learning"
+title: "6.Multi-view semi-supervised feature selection with multi-order similarity and tensor learning"
 collection: publications
 category: 2025
 permalink: /publication/2025-11-03-paper-title-number-1
