@@ -1,7 +1,7 @@
 ---
 title: "1.Gradient-Direction-Aware Density Control for 3D Gaussian Splatting"
 collection: publications
-category: 2026
+category: 2025
 permalink: /publication/2026-03-23-paper-title-number-1
 excerpt: '<div style="text-align: justify;">This paper proposes GDAGS, a gradient-direction-aware density control method that mitigates over-reconstruction and over-densification in 3D Gaussian Splatting for superior rendering quality with compact scene representations.</div>'
 date: 2026-03-23
