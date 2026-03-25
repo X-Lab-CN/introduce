@@ -1,5 +1,5 @@
 ---
-title: "8.CRGT-SA: an interlaced and spatiotemporal deep learning model for network intrusion detection"
+title: "8.CRGT-SA: An Interlaced and Spatiotemporal Deep Learning Model for Network Intrusion Detection"
 collection: publications
 category: 2025
 permalink: /publication/2025-11-01-paper-title-number-1
