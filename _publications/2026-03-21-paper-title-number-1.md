@@ -1,5 +1,5 @@
 ---
-title: "3.CRA-U: lightweight U-Net with component ranking attention for skin lesion segmentation"
+title: "3.CRA-U: Lightweight U-Net with Component Ranking Attention for Skin Lesion Segmentation"
 collection: publications
 category: 2026
 permalink: /publication/2026-03-21-paper-title-number-1
