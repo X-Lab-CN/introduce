@@ -1,5 +1,5 @@
 ---
-title: "5.An innovative contrastive learning approach to improve image recognition robustness and interpretability via simulated environmental perturbations"
+title: "5.An Innovative Contrastive Learning Approach to Improve Image Recognition Robustness and Interpretability via Simulated Environmental Perturbations"
 collection: publications
 category: 2025
 permalink: /publication/2025-11-04-paper-title-number-1
