@@ -53,11 +53,6 @@ redirect_from:
 - [Gao Jingcheng (Since 2024)](http://rayzark.fun/)
 - [Zhang Hanjia (Since 2024)](https://princezhang77.github.io/)
 - [Ji Zhanpeng (Since 2024)](https://jizhanpeng.github.io/)
-- Zhang Jiachen (Since 2023)
-- Chen Jiawei (Since 2023)
-- Zhu Donghai (Since 2023)
-- Zhou Zheng (Since 2023)
-- Xu Yan (Since 2023)
 - Dai Min (Since 2022)
 
 ### Graduated
@@ -75,6 +70,11 @@ redirect_from:
 - Chen Yanxu, 2022 - 2025. Destination after graduation: China Tower Corporation Limited Hubei Branch.
 - Dai Yufan, 2022 - 2025. China Laser Magazine Co., Ltd.
 - Zhang Bo, 2022 - 2025. China Mobile Group Anhui Co., Ltd.
+- Zhang Jiachen, 2023 - 2026. Further study destination: East China Normal University (pursuing a Ph.D. degree).
+- Chen Jiawei, 2023 - 2026. Destination after graduation: Dexin Technology (上海点莘技术有限公司).
+- Zhu Donghai, 2023 - 2026. Destination after graduation: Shengqu Information Technology Co., Ltd.
+- Zhou Zheng, 2023 - 2026. Further study destination: Xiamen University (pursuing a Ph.D. degree).
+- Xu Yan, 2023 - 2026. Destination after graduation: Chery Automobile Co., Ltd.
 
 ### Student Recruitment
 
