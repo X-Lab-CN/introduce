@@ -74,7 +74,7 @@ redirect_from:
 - Chen Jiawei, 2023 - 2026. Destination after graduation: Dexin Technology (上海点莘技术有限公司).
 - Zhu Donghai, 2023 - 2026. Destination after graduation: Shengqu Information Technology Co., Ltd.
 - Zhou Zheng, 2023 - 2026. Further study destination: Xiamen University (pursuing a Ph.D. degree).
-- Xu Yan, 2023 - 2026. Destination after graduation: Chery Automobile Co., Ltd.
+- Xu Yan, 2023 - 2026. Destination after graduation: Geely Automobile.
 
 ### Student Recruitment
 
